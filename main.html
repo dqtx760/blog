@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>莫语简</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- Docsify 主题 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <!-- 主页加载动画 -->
+  <div id="app">正在火速加载中 🚀 🚀 🚀</div>
+  
+  <script>
+    window.$docsify = {
+      // 项目名称
+      name: '🏡',
+      
+      // 仓库地址，点击右上角的 Github 章鱼猫头像会跳转到此地址
+      repo: 'https://gitee.com/tanzwei/tanzwei',
+      
+      // 封面支持，默认加载的是项目根目录下的 _coverpage.md 文件
+      coverpage: 'cover.md',
+      
+      // 导航栏支持，默认加载的是项目根目录下的 _navbar.md 文件
+      loadNavbar: 'navbar.md',
+      
+      // 最大支持渲染的标题层级
+      maxLevel: 4,
+      
+      onlyCover: true,
+      
+      // 切换页面后是否自动跳转到页面首部
+      auto2top: true,
+      
+      // 全文搜索配置
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',    // 自动索引所有文档
+        placeholder: '搜一下',
+        noData: '没有搜到你想要的内容哦..',
+        depth: 2,         // 搜索标题的最大层级
+        namespace: 'docsify-demo', // 避免搜索索引冲突
+        pathNamespaces: ['/zh-cn', '/en-us'], // 支持路径前缀
+        hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+      }
+    }
+  </script>
+  
+  <!-- Docsify 插件 -->
+  <!-- emoji 表情支持 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <!-- 图片放大缩小支持 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- 全文搜索插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- 双音符兼容性（用于旧版浏览器） -->
+  <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- vuep 插件 -->
+  <script src="//unpkg.com/vuep/dist/vuep.min.js"></script>
+  <!-- 字数统计 -->
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!-- Java 代码高亮 -->
+  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
+  <!-- 复制代码到剪贴板 -->
+  <script src="//unpkg.com/docsify-copy-code"></script>
+</body>
+</html>
