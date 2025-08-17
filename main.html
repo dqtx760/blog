@@ -4,12 +4,10 @@
   <title>莫语简</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Docsify 主题 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
   <div id="app"></div>
-  
   <script>
     window.$docsify = {
       name: '🏡',
@@ -18,26 +16,15 @@
       loadNavbar: 'navbar.md',
       maxLevel: 4,
       auto2top: true,
-      
-      // 全文搜索配置
       search: {
-        maxAge: 86400000, // 过期时间，默认一天
-        paths: 'auto',
+        maxAge: 86400000,
         placeholder: '搜一下',
         noData: '没有结果',
-      },
-      
-      // 路由配置，适配 `README?id=大强附件表`
-      routerMode: 'history',  // 可选配置，推荐使用 hash 模式（'hash'）
-      notFoundPage: true,     // 开启 404 页面支持
-      relativePath: false,    // 强制绝对路径解析，避免跳转错误
+      }
     };
   </script>
-  
-  <!-- Docsify 核心库 + 插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <!-- 兼容旧版浏览器的双音符搜索 -->
   <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
 </body>
 </html>
