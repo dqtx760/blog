@@ -1,33 +1,27 @@
-![小猫编程动图](https://mmbiz.qpic.cn/mmbiz_gif/gz2sdHyQbaZc0dIlEbMqjanFnBSmeLcww0YAecX8fuicqdUW4goZhMlKxhdaNzMDA9XgZD5CfffmqsEqkUibrySA/640?wx_fmt=gif&from=appmsg)
+<!-- First Row: B站 & 油管 -->
 
-📫 **人间忽晚，山河已秋。 <span style="color: red;">技术支持微信：dqtx33</span>** 
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px; margin-bottom: 10px;">
+  <a href="https://space.bilibili.com/491358682/upload/video" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
+    <img src="https://img.shields.io/badge/📺_B站-00A1E9?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" style="max-height: 28px;">
+  </a>
+  <a href="https://www.youtube.com/@dqtx760/videos" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
+    <img src="https://img.shields.io/badge/🎬_YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" style="max-height: 28px;">
+  </a></div>
+<!-- Second Row: 抖音, 小红书 & GitHub -->
 
-  <a href="https://blog.csdn.net/2402_82616859?type=blog" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
-      <img src="https://img.shields.io/badge/📖_大强同学-FF4D4D?style=flat-square&logo=c&logoColor=white" alt="CSDN" style="max-height: 28px;">
-    </a>
-    <a href="https://twitter.com/dqtx760" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
-      <img src="https://img.shields.io/badge/🐦_dqtx760-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" style="max-height: 28px;">
-    </a>
-    <a href="https://www.youtube.com/@dqtx760/videos" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
-      <img src="https://img.shields.io/badge/🎬_dqtx760-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" style="max-height: 28px;">
-    </a>
-    <a href="https://xodnytdcaw.feishu.cn/wiki/BtjSwIjMuiISo7kNFiQcMMXcnKc?fromScene=spaceOverview" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
-      <img src="https://img.shields.io/badge/📚_教程合集-00A1E9?style=flat-square&logo=feishu&logoColor=white" alt="飞书文档" style="max-height: 28px;">
-    </a>
-    <a href="https://bento.me/dqtx" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
-      <img src="https://img.shields.io/badge/🍱_Bento-FFDD54?style=flat-square&logo=bento&logoColor=black" alt="Bento" style="max-height: 28px;">
-    </a>
-    <a href="https://github.com/dqtx760" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
-      <img src="https://img.shields.io/badge/💻_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-height: 28px;">
-    </a>
-    <!-- 新增Linktree链接 -->
-    <a href="https://link3.cc/dqtx" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
-      <img src="https://img.shields.io/badge/🔗_Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" style="max-height: 28px;">
-    </a>
-  </div> 
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAay4eAxRVl8zwRDHIK54jaiwP7foUlYjVVCA4sbj4Fe1rMwKBQPBv14nFpu-ksANe?from_tab_name=main" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
+    <img src="https://img.shields.io/badge/🎵_抖音-000000?style=flat-square&logo=tiktok&logoColor=white" alt="Douyin" style="max-height: 28px;">
+  </a>
+  <a href="https://www.xiaohongshu.com/user/profile/5ce0d3a7000000001202e31b" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
+    <img src="https://img.shields.io/badge/📕_小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" style="max-height: 28px;">
+  </a>
+  <a href="https://github.com/dqtx760" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
+    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-height: 28px;">
+  </a>
+</div>
+</div>
 
-<div style="text-align: center">
-![哈哈](https://gitee.com/da-qiang-classmate/typora/raw/master/image/image-20250817224537013.png)
 ----
 
 
@@ -38,3 +32,14 @@
 [(通稿)正版软件优惠，近期新品软件推荐](/article/软件安利/(通稿)正版软件优惠，近期新品软件推荐.md)
 
 [壁纸网站](/article/软件安利/5个壁纸网站.md)
+
+## 网站推荐
+- 1
+- 2
+- 3
+
+## 技术教程
+1.1 
+1.2 
+
+
