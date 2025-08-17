@@ -21,7 +21,8 @@
   </a>
 </div>
 </div>
-
+![小猫编程动图](https://mmbiz.qpic.cn/mmbiz_gif/gz2sdHyQbaZc0dIlEbMqjanFnBSmeLcww0YAecX8fuicqdUW4goZhMlKxhdaNzMDA9XgZD5CfffmqsEqkUibrySA/640?wx_fmt=gif&from=appmsg)
+![哈哈](https://gitee.com/da-qiang-classmate/typora/raw/master/image/image-20250817224537013.png)
 ----
 
 
