@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
-    <title>大强附件表</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
     <style>
-        .app-name { display: none !important; }
-        /* 强制默认隐藏三级标题 */
-        .sidebar-nav ul ul { display: none !important; }
-        /* 当父标题被点击时显示 */
-        .sidebar-nav li.active > ul { display: block !important; }
+        /* 隐藏三级标题（默认状态） */
+        .sidebar-nav ul ul {
+            display: none !important;
+        }
+        /* 激活状态（点击后展开） */
+        .sidebar-nav li.active > ul {
+            display: block !important;
+        }
     </style>
 </head>
 <body>
@@ -20,13 +22,43 @@
             name: '',
             coverpage: 'cover.md',
             loadNavbar: 'navbar.md',
-            maxLevel: 4,
-            subMaxLevel: 1, // 默认只展开到二级标题
-            auto2top: true,
-            search: { placeholder: '搜一下' }
+            maxLevel: 4,          // 解析到 h4 标题
+            subMaxLevel: 1,       // 默认仅展开到二级标题
+            auto2top: true,       // 切换页面自动滚动到顶部
+            loadSidebar: true,    // 启用侧边栏
+            mergeNavbar: true,    // 合并导航栏和侧边栏（可选）
+            notFoundPage: true,   // 显示 404 页面
         };
     </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@latest"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    
+    <!-- 监听侧边栏点击事件 -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // 监听侧边栏点击事件
+            document.addEventListener('click', function(e) {
+                const target = e.target.closest('.sidebar-nav a');
+                if (target) {
+                    // 找到对应的三级标题容器
+                    const parentLi = target.parentElement;
+                    const childUl = parentLi.querySelector('ul');
+                    if (childUl) {
+                        // 切换展开状态
+                        parentLi.classList.toggle('active');
+                        
+                        // 获取目标标题的锚点（如 #verceldocsify-上线静态博客）
+                        const hash = target.getAttribute('href');
+                        if (hash) {
+                            // 手动触发路由更新，定位到正文
+                            setTimeout(() => {
+                                window.router && window.router.navigate(hash);
+                            }, 100);
+                        }
+                    }
+                }
+            });
+        });
+    </script>
 </body>
 </html>
