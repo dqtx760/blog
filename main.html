@@ -1,16 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
 <head>
-  <title>大强附件表</title>
+  <title>blog</title> <!-- 修改浏览器标签页标题 -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    /* 隐藏 Docsify 右上角标题 */
+    .app-name.hide,
+    .app-name {
+      display: none !important;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '', // 标题留空以隐藏默认标题
+      name: '', // 确保站点标题为空
       coverpage: 'cover.md',
       loadNavbar: 'navbar.md',
       maxLevel: 4,
