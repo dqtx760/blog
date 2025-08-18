@@ -33,6 +33,68 @@
 ![1](/image/fmt.gif)
 
 
+## ➡️绿色软件
+### ﻿Office 2024安装与激活
+https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw
+
+### ﻿Honeyview看图神器，免费无广告！
+https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g
+
+### ﻿Potplayer安装与设置教程
+https://www.kdocs.cn/l/clmJIYpDA4mH
+
+### ﻿‌‌PS2025安装教程
+https://www.kdocs.cn/l/camYZ7UK6kgi
+
+### ﻿Adobe Acrobat DC 2025安装教程
+https://www.kdocs.cn/l/ci7NRMCDf6Cf
+
+### ﻿效率神器Listary，已解锁Pro版！
+https://mp.weixin.qq.com/s/2Dm1qHcwG5ELb6D2vwN-Gw
+
+## ➡️一行代码
+```
+Powershell命令代码​
+irm https://get.activated.win | iex        先输入3，等会再输入1，激活Windows系统​
+irm https://get.activated.win | iex        先输入2，等会再输入1，激活Office​
+iex(irm is.gd/idm_reset)                      先输入1 ，之后输入 9，激活IDM（挂魔法）​
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61------开启电源卓越性能  ​
+恢复传统右键菜单​
+reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve​
+去除小箭头命令​
+激活offcie/Windows命令​
+Eventvwr.msc--日志​
+control------打开控制面板​
+ipconfig---------ip地址查询​
+regedit-----打开注册表​
+ipconfig /flushdns-------清理NDS缓存​
+curl 4.ipw.cn---查询本机外网IPv4地址​
+shell:startup--------自启动文件夹​
+Winver-----查看Windows版本​
+ncpa.cpl-----网络适配器​
+route print------路由表​
+control system-------查看计算器基本信息​
+msinfo32--------查看系统信息​
+dxdiag--------------电脑配置信息​
+msconfig----打开系统配置​
+ncpa.cpl----打开网络链接​
+control--------------打开控制面板​
+shell:AppsFolder------电脑安装的全部软件​
+dir/s------------------磁盘检查​
+cls-----------------清屏​
+osk-----打开屏幕键盘​
+mrt----恶意软件删除工具​
+cleanmgr /sagerun----系统垃圾清理​
+wmic bios get serialnumber----电脑序列号查询​
+regsvr32 dbghelp.dll----命令提示符注册dll​
+taskkill /f /im taskmgr.exe----强制关闭任务管理器​
+firewall.cpl--------------------------------打开防火墙​
+services.msc-----打开服务列表窗口​
+Sfc /scannow -----修复系统文件​
+DISM /Online /Cleanup-Image /ScanHealth-----损坏镜像修复​
+管理员运行：netsh wlan show profiles​
+再运行：netsh wlan show profile name="WiFi网络名称" key=clear    -----无线网密码查询
+```
 
 
 ## ➡️网站搭建
@@ -150,22 +212,6 @@ https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOve
 ‌﻿
 
 
-## ➡️办公软件
-### Potplayer安装与设置教程
-
-https://www.kdocs.cn/l/clmJIYpDA4mH
-
-‌‌
-
-### PS2025安装教程
-
-https://www.kdocs.cn/l/camYZ7UK6kgi
-
-
-
-### Adobe Acrobat DC 2025安装教程
-
-https://www.kdocs.cn/l/ci7NRMCDf6Cf
 
 ## ➡️技术教程
 
