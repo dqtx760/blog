@@ -29,61 +29,18 @@
 
 如需要远程技术支持
 **可以点击红色文字：**[<span style="color:red">点此前往</span>](742112.xyz)
+
 ![大强logo]([https://742112.xyz/logo.png](https://i-blog.csdnimg.cn/blog_migrate/00bac1e4de62b741b7c73319eb54ec41.gif))
 
 ----
 
-
-## ➡️系统工具
+## ➡️网站搭建
 ﻿‬‬⁤‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vercel+Docsify上线静态博客
 
 https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
 
 
-
-‍⁤‬⁢‬﻿⁣‬⁡‍‍‬⁢⁣⁣⁤‬⁣⁡⁣⁢⁤‌⁤⁢⁢⁣⁡‌‬﻿⁤⁡⁡‬﻿⁣⁢‍﻿‬⁢⁣⁣⁤‍⁤⁡⁢⁤⁢⁤﻿‌‍‍﻿⁢﻿⁣﻿玩转高级搜索的秘密！
-
-https://xodnytdcaw.feishu.cn/wiki/FeAFw1KCwiZyxXkdu5lcIAkQnTf?fromScene=spaceOverview
-
-‌‌‬﻿‬⁣⁣⁢⁢﻿﻿‌‌‌‬‍⁡‬‌﻿⁢﻿⁣‍‌⁣
-
-yt-dlp命令行下载视频指南
-
-https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
-
-
-
-‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用教程 
-
-https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
-
-‌‍⁤⁣‬⁤⁤⁡‬‍⁤‬‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
-
-搞定微信视频号下载 
-
-https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
-
-
-
-搞定油管4K高清下载，附件软件
-
-https://www.kdocs.cn/l/cloFL4VVmyJP
-
-
-
-全网视频下载解决方案这里都有
-
-https://www.kdocs.cn/l/cb6y8GhDeS1s
-
-
-
-⁤⁣﻿⁣‬⁣‍‌⁢⁢⁢⁡‍‍⁢⁡﻿⁣⁤‌⁤⁡⁣⁣⁡⁢⁣⁤⁢⁢⁤⁡⁤‌⁣﻿⁡﻿⁤‬⁤﻿⁡‌⁡⁤‬⁣⁡‍⁡﻿⁢⁤⁤⁡‍‍⁤‬‬‍‍‍‬⁡‌‌‌‍⁢‬﻿⁣‌⁣‬‬⁤OpenList网盘挂载部署
-
-https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview
-
-
-
-‍⁢⁡⁡⁣﻿﻿⁡⁣⁤⁡‬‬‍‌‍‍⁣‍⁤‬⁢﻿‬﻿‬‬⁡‌‬⁢‬⁣‬‍‌‬‍‬‌⁡⁤﻿⁢‌⁢‬‬﻿⁤⁤‬‌⁤‌⁡GitHub零基础入门指南 
+GitHub零基础入门指南 
 
 https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
 
@@ -116,6 +73,40 @@ https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOve
 建站：云服务器_域名低价购买教程
 
 https://www.kdocs.cn/l/caiKt4XO3TtQ
+
+## ➡️系统工具
+
+‌‌‬﻿‬⁣⁣⁢⁢﻿﻿‌‌‌‬‍⁡‬‌﻿⁢﻿⁣‍‌⁣
+
+yt-dlp命令行下载视频指南
+
+https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
+
+
+
+‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用教程 
+
+https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
+
+‌‍⁤⁣‬⁤⁤⁡‬‍⁤‬‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
+
+搞定微信视频号下载 
+
+https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
+
+
+
+搞定油管4K高清下载，附件软件
+
+https://www.kdocs.cn/l/cloFL4VVmyJP
+
+
+
+全网视频下载解决方案这里都有
+
+https://www.kdocs.cn/l/cb6y8GhDeS1s
+
+
 
 
 
@@ -327,33 +318,5 @@ https://www.kdocs.cn/l/cloFL4VVmyJP**
 
 ## ➡️chrome插件
 
-## ➡️网站搭建
-﻿‬‬⁤‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vecel+Docsify上线静态博客
-https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
-
-OpenList网盘挂载部署
-https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview
-
-⁢⁡⁡⁣﻿﻿⁡⁣⁤⁡‬‬‍‌‍‍⁣‍⁤‬⁢﻿‬﻿‬‬⁡‌‬⁢‬⁣‬‍‌‬‍‬‌⁡⁤﻿⁢‌⁢‬‬﻿⁤⁤‬‌⁤‌⁡GitHub零基础入门指南 
-https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
-﻿⁣
-GitHub加速下载指南，附工具包！
-https://www.kdocs.cn/l/camMGgeBbn1K
-‌⁡‍⁡⁢⁣‌‍⁤⁤⁣﻿
-网站搭建：：GitHub与Cloudflare高效利用！
-https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview
-
-
-⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名 
-https://xodnytdcaw.feishu.cn/wiki/IN4IwCar0iUKEfkeXOGczgPznRd?fromScene=spaceOverview
-
-
-‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
-https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview
-
-
-建站：云服务器_域名低价购买教程
-
-https://www.kdocs.cn/l/caiKt4XO3TtQ
 
 
