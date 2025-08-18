@@ -1,4 +1,4 @@
-## **大强测试表**
+## **大强附件表**
 
 ----
 <span style="background-color:  cyan;">我的视频主页，你可以方便的在这里查阅并下载每期视频的附件</span>
@@ -27,7 +27,8 @@
 </div>
 </div>
 
-**大强远程技术支持：**[<span style="color:red">点此前往</span>](742112.xyz)
+如需要远程技术支持
+**可以点击红色文字：**[<span style="color:red">点此前往</span>](742112.xyz)
 
 ----
 
@@ -296,8 +297,62 @@ https://www.kdocs.cn/l/cuqiElhL7qgd
 [壁纸网站](/article/软件安利/5个壁纸网站.md)
 [(通稿)正版软件优惠，近期新品软件推荐](/article/软件安利/(通稿)正版软件优惠，近期新品软件推荐.md)
 
-## 🌟社交通讯🌟
-[壁纸网站](/article/软件安利/5个壁纸网站.md)
-[(通稿)正版软件优惠，近期新品软件推荐](/article/软件安利/(通稿)正版软件优惠，近期新品软件推荐.md)
+
+## ➡️下载工具
+yt-dlp命令行下载视频指南
+https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
+
+
+‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用教程 
+https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
+
+‌‍⁤⁣‬⁤⁤⁡‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
+
+搞定微信视频号下载 
+https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
+
+
+
+搞定油管4K高清下载，附件软件
+https://www.kdocs.cn/l/cloFL4VVmyJP**
+
+## ➡️录频工具
+
+## ➡️卸载工具
+
+## ➡️桌面美化
+
+## ➡️笔记软件
+
+## ➡️chrome插件
+
+## ➡️网站搭建
+﻿‬‬⁤‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vecel+Docsify上线静态博客
+https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
+
+OpenList网盘挂载部署
+https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview
+
+⁢⁡⁡⁣﻿﻿⁡⁣⁤⁡‬‬‍‌‍‍⁣‍⁤‬⁢﻿‬﻿‬‬⁡‌‬⁢‬⁣‬‍‌‬‍‬‌⁡⁤﻿⁢‌⁢‬‬﻿⁤⁤‬‌⁤‌⁡GitHub零基础入门指南 
+https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
+﻿⁣
+GitHub加速下载指南，附工具包！
+https://www.kdocs.cn/l/camMGgeBbn1K
+‌⁡‍⁡⁢⁣‌‍⁤⁤⁣﻿
+网站搭建：：GitHub与Cloudflare高效利用！
+https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview
+
+
+⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名 
+https://xodnytdcaw.feishu.cn/wiki/IN4IwCar0iUKEfkeXOGczgPznRd?fromScene=spaceOverview
+
+
+‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
+https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview
+
+
+建站：云服务器_域名低价购买教程
+
+https://www.kdocs.cn/l/caiKt4XO3TtQ
 
 
