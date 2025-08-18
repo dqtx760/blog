@@ -111,8 +111,6 @@ https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOve
 ### 建站：云服务器_域名低价购买教程
 https://www.kdocs.cn/l/caiKt4XO3TtQ
 
-## ➡️技术教程
-
 ### ‌‬‌‬‌⁡﻿⁣﻿﻿﻿‍‬⁢‍⁢⁤﻿‬⁢⁤⁢‍‬‍‬⁡⁤⁤‍⁢⁢⁢‬⁢‬⁤‌⁤﻿﻿‌⁤‬‌Rustdesk客户端编译 
 https://xodnytdcaw.feishu.cn/wiki/Vrcow8yKgi2D9jk3EyucOnnBnDh?fromScene=spaceOverview
 
