@@ -62,9 +62,7 @@ https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOve
 ### 搞定微信视频号下载 
 https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
 
-下载地址：
-- [项目地址](https://github.com/ltaoo/wx_channels_download) 
-- [云盘云盘](https://pan.xunlei.com/s/VOXNsSH2yrt68jPfe3ry7ZDKA1?pwd=jn8b#)
+🔗下载地址：[项目地址](https://github.com/ltaoo/wx_channels_download)      [云盘云盘](https://pan.xunlei.com/s/VOXNsSH2yrt68jPfe3ry7ZDKA1?pwd=jn8b#)
 
 ### 搞定油管4K高清下载，采用yt-dlp构建
 https://github.com/oop7/YTSage
