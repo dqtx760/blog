@@ -29,31 +29,34 @@
 
 如需要远程技术支持：[<span style="color:red">点此前往</span>](https://www.742112.xyz)
 
-![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/640.gif)
+![1](https://gitee.com/da-qiang-classmate/typora/raw/master/image/640.gif)
 
 ![111](https://gitee.com/da-qiang-classmate/typora/raw/master/image/7e4870f2-47c2-4e4f-9858-c2438466f386.png)
+
+![546](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20250814111631193.png)
 
 ----
 
 ## ➡️网站搭建
-﻿‬‬⁤‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vercel+Docsify上线静态博客
+﻿‬‬⁤‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿
+### Vercel+Docsify上线静态博客
 
 https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
 
 
-GitHub零基础入门指南 
+### GitHub零基础入门指南 
 
 https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
 
 ﻿⁣⁢⁣
 
-GitHub加速下载指南，附工具包！
+- GitHub加速下载指南，附工具包！
 
 https://www.kdocs.cn/l/camMGgeBbn1K
 
 ‌⁡‍⁡⁢⁣⁤⁣‬‌‍⁤⁤⁣﻿‬
 
-网站搭建：：GitHub与Cloudflare高效利用！
+- 网站搭建：：GitHub与Cloudflare高效利用！
 
 https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview
 
