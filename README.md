@@ -32,9 +32,12 @@
 
 ## 软件安利
 ### ﻿‬‬⁤‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vercel+Docsify上线静态博客
-
 https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
-
+#### 下载地址
+baidu.com
+#### 版本更新
+看见收到了看见
+- 的
 
 
 ### ‍⁤‬⁢‬﻿⁣‬⁡‍‍‬⁢⁣⁣⁤‬⁣⁡⁣⁢⁤‌⁤⁢⁢⁣⁡‌‬﻿⁤⁡⁡‬﻿⁣⁢‍﻿‬⁢⁣⁣⁤‍⁤⁡⁢⁤⁢⁤﻿‌‍‍﻿⁢﻿⁣﻿玩转高级搜索的秘密！
