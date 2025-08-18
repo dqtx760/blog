@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
-  <title>大强附件表</title> <!-- 修改浏览器标签页标题 -->
+  <title>大强附件表</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
@@ -11,16 +11,27 @@
     .app-name {
       display: none !important;
     }
+    
+    /* 默认隐藏三级标题 */
+    .sidebar ul li ul {
+      display: none;
+    }
+    
+    /* 点击后显示三级标题 */
+    .sidebar ul li.active ul {
+      display: block;
+    }
   </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '', // 确保站点标题为空
+      name: '',
       coverpage: 'cover.md',
       loadNavbar: 'navbar.md',
-      maxLevel: 4,
+      maxLevel: 3,  // 最大支持三级标题
+      subMaxLevel: 2,  // 默认只显示二级标题
       auto2top: true,
       search: {
         maxAge: 86400000,
