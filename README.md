@@ -34,8 +34,9 @@
 
 
 ## ➡️绿色软件
-### ﻿Office 2024安装与激活
-https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw
+
+### ﻿效率神器Listary，已解锁Pro版！
+https://mp.weixin.qq.com/s/2Dm1qHcwG5ELb6D2vwN-Gw
 
 ### ﻿Honeyview看图神器，免费无广告！
 https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g
@@ -43,49 +44,51 @@ https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g
 ### ﻿Potplayer安装与设置教程
 https://www.kdocs.cn/l/clmJIYpDA4mH
 
+### ﻿Office 2024安装与激活
+https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw
+
 ### ﻿‌‌PS2025安装教程
 https://www.kdocs.cn/l/camYZ7UK6kgi
 
-### ﻿Adobe Acrobat DC 2025安装教程
+### ﻿Adobe Acrobat DC 2025安装
 https://www.kdocs.cn/l/ci7NRMCDf6Cf
-
-### ﻿效率神器Listary，已解锁Pro版！
-https://mp.weixin.qq.com/s/2Dm1qHcwG5ELb6D2vwN-Gw
 
 ### yt-dlp命令行下载视频指南
 https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
 
-### ‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用教程 
+### ‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用
 https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
 ‌‍⁤⁣‬⁤⁤‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
 ### 搞定微信视频号下载 
 https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
+下载地址：[GitHub](https://github.com/ltaoo/wx_channels_download)   [云盘云盘](https://pan.xunlei.com/s/VOXNsSH2yrt68jPfe3ry7ZDKA1?pwd=jn8b#)
 
-### 搞定油管4K高清下载，附件软件
-https://www.kdocs.cn/l/cloFL4VVmyJP
+### 搞定油管4K高清下载，采用yt-dlp构建
+https://github.com/oop7/YTSage
 
 ## ➡️系统优化
-### 电脑U盘装Win11系统教程
-https://www.kdocs.cn/l/cjvZ1YqoN4Kr
 ‌
+### Windows电脑常见问题维修指南
+https://www.kdocs.cn/l/ceAmpw14G8lD
+
 ### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
 https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview
-
-### cmd/PowerShell美化 
-https://xodnytdcaw.feishu.cn/wiki/ML9MwFQ1vijfHikBc48cq9dunjc?fromScene=spaceOverview
-‌⁢‬⁢⁤﻿⁤⁤‌⁣﻿⁡⁢⁢﻿
-### Win10美化入门教程 
-https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
 
 ### Windows优化常见工具包
 https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOverview
 
+### Windows10美化入门教程 
+https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
+
+### 使用U盘给电话重装系统指南
+https://www.kdocs.cn/l/cjvZ1YqoN4Kr
+
+### cmd/PowerShell美化 
+https://xodnytdcaw.feishu.cn/wiki/ML9MwFQ1vijfHikBc48cq9dunjc?fromScene=spaceOverview
+‌⁢‬⁢⁤﻿⁤⁤‌⁣﻿⁡⁢⁢﻿
 ### ‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案
 https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOverview
-⁢‍﻿⁢‬‍⁡‬‬⁢﻿
-### Windows电脑常见问题维修指南
-https://www.kdocs.cn/l/ceAmpw14G8lD
-
+⁢‍﻿⁢‬‍⁡‬‬
 ### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用完全指南
 https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
 
@@ -136,13 +139,39 @@ irm https://get.activated.win | iex        先输入3，等会再输入1，激�
 irm https://get.activated.win | iex        先输入2，等会再输入1，激活Office​
 iex(irm is.gd/idm_reset)                      先输入1 ，之后输入 9，激活IDM（挂魔法）​
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61------开启电源卓越性能  ​
+
 恢复传统右键菜单​
 reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve​
-去除小箭头命令​
-激活offcie/Windows命令​
+
+
+cmd命令
+
+sysdm.cpl---------环境变量
+shutdown /r /fw /t 0  ---------------重启进入 BIOS
+netplwiz------------电脑用户名更改
+explorer.exe--------重新启动文件资源管理器
+shell:startup--------自启动文件夹
+regedit-----打开注册表
+msconfig----打开系统配置
+ipconfig---------ip地址查询
+ncpa.cpl-----网络适配器
+ipconfig /flushdns-------清理NDS缓存
+curl 4.ipw.cn---查询本机外网IPv4地址
+route print------路由表
+sysdm.cpl-----查看高级系统设置
+appwiz.cpl——添加或删除程序
+
+控制面板      (control)
+网络设置      (ncpa.cpl)
+注册表        (regedit)
+系统属性      (sysdm.cpl)
+设备管理器    (devmgmt.msc)
+用户管理      (netplwiz)
+系统配置      (msconfig)
+服务管理      (services.msc)
+
 Eventvwr.msc--日志​
 control------打开控制面板​
-ipconfig---------ip地址查询​
 regedit-----打开注册表​
 ipconfig /flushdns-------清理NDS缓存​
 curl 4.ipw.cn---查询本机外网IPv4地址​
@@ -169,8 +198,11 @@ firewall.cpl--------------------------------打开防火墙​
 services.msc-----打开服务列表窗口​
 Sfc /scannow -----修复系统文件​
 DISM /Online /Cleanup-Image /ScanHealth-----损坏镜像修复​
+
+无线网密码查询命令
 管理员运行：netsh wlan show profiles​
-再运行：netsh wlan show profile name="WiFi网络名称" key=clear    -----无线网密码查询
+再运行：netsh wlan show profile name="WiFi网络名称" key=clear
+
 ```
 
 
