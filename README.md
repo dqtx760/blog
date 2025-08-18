@@ -52,6 +52,85 @@ https://www.kdocs.cn/l/ci7NRMCDf6Cf
 ### ﻿效率神器Listary，已解锁Pro版！
 https://mp.weixin.qq.com/s/2Dm1qHcwG5ELb6D2vwN-Gw
 
+### yt-dlp命令行下载视频指南
+https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
+
+### ‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用教程 
+https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
+‌‍⁤⁣‬⁤⁤‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
+### 搞定微信视频号下载 
+https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
+
+### 搞定油管4K高清下载，附件软件
+https://www.kdocs.cn/l/cloFL4VVmyJP
+
+## ➡️系统优化
+### 电脑U盘装Win11系统教程
+https://www.kdocs.cn/l/cjvZ1YqoN4Kr
+‌
+### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
+https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview
+
+### cmd/PowerShell美化 
+https://xodnytdcaw.feishu.cn/wiki/ML9MwFQ1vijfHikBc48cq9dunjc?fromScene=spaceOverview
+‌⁢‬⁢⁤﻿⁤⁤‌⁣﻿⁡⁢⁢﻿
+### Win10美化入门教程 
+https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
+
+### Windows优化常见工具包
+https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOverview
+
+### ‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案
+https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOverview
+⁢‍﻿⁢‬‍⁡‬‬⁢﻿
+### Windows电脑常见问题维修指南
+https://www.kdocs.cn/l/ceAmpw14G8lD
+
+### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用完全指南
+https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
+
+## ➡️网站搭建
+### ﻿‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vercel+Docsify上线静态博客
+https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
+
+### GitHub零基础入门指南 
+https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
+﻿⁣
+### GitHub加速下载指南，附工具包！
+https://www.kdocs.cn/l/camMGgeBbn1K
+‌⁡‍⁡⁢⁣⁤⁣‬‌‍⁤⁤⁣﻿‬
+### GitHub与Cloudflare高效利用！
+https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview
+
+### ⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名 
+https://xodnytdcaw.feishu.cn/wiki/IN4IwCar0iUKEfkeXOGczgPznRd?fromScene=spaceOverview
+
+### ‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
+https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview
+
+### 建站：云服务器_域名低价购买教程
+https://www.kdocs.cn/l/caiKt4XO3TtQ
+
+## ➡️技术教程
+
+### ‌‬‌‬‌⁡﻿⁣﻿﻿﻿‍‬⁢‍⁢⁤﻿‬⁢⁤⁢‍‬‍‬⁡⁤⁤‍⁢⁢⁢‬⁢‬⁤‌⁤﻿﻿‌⁤‬‌Rustdesk客户端编译 
+https://xodnytdcaw.feishu.cn/wiki/Vrcow8yKgi2D9jk3EyucOnnBnDh?fromScene=spaceOverview
+
+### ‍‬‬‬‍‌⁣⁢⁡⁣‍⁢⁣﻿﻿‍⁣‌﻿⁡⁣⁤⁣‍⁡﻿⁡⁣‍⁣‬‬‍‍⁡‬‌﻿⁢⁤⁤⁢⁡﻿‬Rust desk搭建中继服务器 
+https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOverview
+
+### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
+https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
+
+‍⁡‍﻿
+
+## ➡️TV软件
+### My tv直播源
+https://www.kdocs.cn/l/cgLUgdfBzKZi
+
+### TVbox 教程+直播源
+https://www.kdocs.cn/l/cbqzlC3waPFX
+
 ## ➡️一行代码
 ```
 Powershell命令代码​
@@ -95,157 +174,6 @@ DISM /Online /Cleanup-Image /ScanHealth-----损坏镜像修复​
 管理员运行：netsh wlan show profiles​
 再运行：netsh wlan show profile name="WiFi网络名称" key=clear    -----无线网密码查询
 ```
-
-
-## ➡️网站搭建
-### ﻿‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vercel+Docsify上线静态博客
-
-https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
-
-
-### GitHub零基础入门指南 
-
-https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
-
-﻿⁣⁢⁣
-
-### GitHub加速下载指南，附工具包！
-
-https://www.kdocs.cn/l/camMGgeBbn1K
-
-‌⁡‍⁡⁢⁣⁤⁣‬‌‍⁤⁤⁣﻿‬
-
-### GitHub与Cloudflare高效利用！
-
-https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview
-
-
-
-### ⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名 
-
-https://xodnytdcaw.feishu.cn/wiki/IN4IwCar0iUKEfkeXOGczgPznRd?fromScene=spaceOverview
-
-
-
-### ‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
-
-https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview
-
-
-
-### 建站：云服务器_域名低价购买教程
-
-https://www.kdocs.cn/l/caiKt4XO3TtQ
-
-## ➡️下载工具‬﻿‬⁣⁣⁢⁢﻿﻿‌‌‌‬‍⁡‬‌﻿⁢﻿⁣‍‌⁣
-
-### yt-dlp命令行下载视频指南
-
-https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
-
-
-
-### ‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用教程 
-
-https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
-
-‌‍⁤⁣‬⁤⁤⁡‬‍‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
-
-### 搞定微信视频号下载 
-
-https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
-
-
-
-### 搞定油管4K高清下载，附件软件
-
-https://www.kdocs.cn/l/cloFL4VVmyJP
-
-
-## ➡️系统工具
-### 电脑U盘装Win11系统教程
-
-https://www.kdocs.cn/l/cjvZ1YqoN4Kr
-
-‌⁡
-
-### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
-
-https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview
-
-
-
-### cmd/PowerShell美化 
-
-https://xodnytdcaw.feishu.cn/wiki/ML9MwFQ1vijfHikBc48cq9dunjc?fromScene=spaceOverview
-
-‌⁢‬⁢⁤﻿⁤⁤‌⁣﻿⁡⁢⁢﻿
-
-### Win10美化入门教程 
-
-https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
-
-
-
-### Windows优化常见工具包
-
-https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOverview
-
-
-
-### ‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案
-
-https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOverview
-
-⁢‍﻿⁢‬‍⁡‬‬⁢﻿⁤⁡
-
-### Windows电脑常见问题维修指南
-
-https://www.kdocs.cn/l/ceAmpw14G8lD
-
-
-
-### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用完全指南
-
-https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
-
-‌﻿
-
-
-
-## ➡️技术教程
-
-### ‌‬‌‬‌⁡﻿⁣﻿﻿﻿‍‬⁢‍⁢⁤﻿‬⁢⁤⁢‍‬‍‬⁡⁤⁤‍⁢⁢⁢‬⁢‬⁤‌⁤﻿﻿‌⁤‬‌Rustdesk客户端编译 
-
-https://xodnytdcaw.feishu.cn/wiki/Vrcow8yKgi2D9jk3EyucOnnBnDh?fromScene=spaceOverview
-
-
-
-### ‍‬‬‬‍‌⁣⁢⁡⁣‍⁢⁣﻿﻿‍⁣‌﻿⁡⁣⁤⁣‍⁡﻿⁡⁣‍⁣‬‬‍‍⁡‬‌﻿⁢⁤⁤⁢⁡﻿‬Rust desk搭建中继服务器 
-
-https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOverview
-
-
-
-### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
-
-https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
-
-‍⁡‍﻿⁣⁢
-
-## ➡️TV软件
-
-### My tv直播源
-
-https://www.kdocs.cn/l/cgLUgdfBzKZi
-
-
-
-### TVbox 教程+直播源
-
-https://www.kdocs.cn/l/cbqzlC3waPFX
-
-## 
 
 
 
