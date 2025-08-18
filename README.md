@@ -29,17 +29,14 @@
 
 如需要远程技术支持：[<span style="color:red">点此前往</span>](https://www.742112.xyz)
 
-![1](https://gitee.com/da-qiang-classmate/typora/raw/master/image/640.gif)
+![1](/image/fm.gif)
 
-![111](https://gitee.com/da-qiang-classmate/typora/raw/master/image/7e4870f2-47c2-4e4f-9858-c2438466f386.png)
 
-![546](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20250814111631193.png)
 
 ----
 
 ## ➡️网站搭建
-﻿‬‬⁤‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿
-### Vercel+Docsify上线静态博客
+### ﻿‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vercel+Docsify上线静态博客
 
 https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
 
@@ -50,277 +47,159 @@ https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOve
 
 ﻿⁣⁢⁣
 
-- GitHub加速下载指南，附工具包！
+### GitHub加速下载指南，附工具包！
 
 https://www.kdocs.cn/l/camMGgeBbn1K
 
 ‌⁡‍⁡⁢⁣⁤⁣‬‌‍⁤⁤⁣﻿‬
 
-- 网站搭建：：GitHub与Cloudflare高效利用！
+### GitHub与Cloudflare高效利用！
 
 https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview
 
 
 
-⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名 
+### ⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名 
 
 https://xodnytdcaw.feishu.cn/wiki/IN4IwCar0iUKEfkeXOGczgPznRd?fromScene=spaceOverview
 
 
 
-‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
+### ‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
 
 https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview
 
 
 
-建站：云服务器_域名低价购买教程
+### 建站：云服务器_域名低价购买教程
 
 https://www.kdocs.cn/l/caiKt4XO3TtQ
 
-## ➡️系统工具
+## ➡️下载工具‬﻿‬⁣⁣⁢⁢﻿﻿‌‌‌‬‍⁡‬‌﻿⁢﻿⁣‍‌⁣
 
-‌‌‬﻿‬⁣⁣⁢⁢﻿﻿‌‌‌‬‍⁡‬‌﻿⁢﻿⁣‍‌⁣
-
-yt-dlp命令行下载视频指南
+### yt-dlp命令行下载视频指南
 
 https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
 
 
 
-‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用教程 
+### ‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用教程 
 
 https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
 
-‌‍⁤⁣‬⁤⁤⁡‬‍⁤‬‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
+‌‍⁤⁣‬⁤⁤⁡‬‍‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
 
-搞定微信视频号下载 
+### 搞定微信视频号下载 
 
 https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
 
 
 
-搞定油管4K高清下载，附件软件
+### 搞定油管4K高清下载，附件软件
 
 https://www.kdocs.cn/l/cloFL4VVmyJP
 
 
-
-全网视频下载解决方案这里都有
-
-https://www.kdocs.cn/l/cb6y8GhDeS1s
-
-
-
-
-
-迅雷网盘拉新推广能赚1w（附开通渠道） 
-
-https://xodnytdcaw.feishu.cn/wiki/IlTuwx7xsiVCbvkowP1cx2t9nQc?fromScene=spaceOverview
-
-
-
-闲鱼虚拟闲管家自动发货，附邀请码！
-
-https://www.kdocs.cn/l/cnNiOhFzqJA8
-
-
-
-闲鱼提高曝光流量教程 
-
-https://xodnytdcaw.feishu.cn/wiki/JfpfwF1BViQk69khOV0co1Wqn9c?fromScene=spaceOverview
-
-
-
-‌‍‬‬⁢⁡⁣﻿‍⁡⁣‍⁡﻿⁡﻿⁢⁢⁢﻿﻿‬电脑U盘装Win11系统教程
+## ➡️系统工具
+### 电脑U盘装Win11系统教程
 
 https://www.kdocs.cn/l/cjvZ1YqoN4Kr
 
 ‌⁡
 
-‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
+### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
 
 https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview
 
 
 
-cmd/PowerShell美化 
+### cmd/PowerShell美化 
 
 https://xodnytdcaw.feishu.cn/wiki/ML9MwFQ1vijfHikBc48cq9dunjc?fromScene=spaceOverview
 
 ‌⁢‬⁢⁤﻿⁤⁤‌⁣﻿⁡⁢⁢﻿
 
-Win10美化入门教程 
+### Win10美化入门教程 
 
 https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
 
 
 
-Windows优化常见工具包
+### Windows优化常见工具包
 
 https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOverview
 
 
 
-‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案
+### ‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案
 
 https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOverview
 
 ⁢‍﻿⁢‬‍⁡‬‬⁢﻿⁤⁡
 
-Windows电脑常见问题维修指南
+### Windows电脑常见问题维修指南
 
 https://www.kdocs.cn/l/ceAmpw14G8lD
 
 
 
-电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用完全指南
+### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用完全指南
 
 https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
 
-‌﻿‌⁣‍⁢‬⁤‬⁣‌‌⁡⁣‌‍‬﻿⁣
-
-‌‍⁣⁢‬‬⁤⁣⁤‍⁣⁤⁣‍⁡⁤‌‌‍‌⁡‬‌⁤‬‬⁤⁡‌‌‬⁣⁣﻿⁡⁤﻿‬‌⁣家庭电路与网线平面接线图 
-
-https://xodnytdcaw.feishu.cn/wiki/NcEAw6igCioMo9kUOTicJvhXnTb?fromScene=spaceOverview
+‌﻿
 
 
-
-‌‬‌‬‌⁡﻿⁣﻿﻿﻿‍‬⁢‍⁢⁤﻿‬⁢⁤⁢‍‬‍‬⁡⁤⁤‍⁢⁢⁢‬⁢‬⁤‌⁤﻿﻿‌⁤‬‌Rustdesk客户端编译 
-
-https://xodnytdcaw.feishu.cn/wiki/Vrcow8yKgi2D9jk3EyucOnnBnDh?fromScene=spaceOverview
-
-
-
-‍‬‬‬‍‌⁣⁢⁡⁣‍⁢⁣﻿﻿‍⁣‌﻿⁡⁣⁤⁣‍⁡﻿⁡⁣‍⁣‬‬‍‍⁡‬‌﻿⁢⁤⁤⁢⁡﻿‬Rust desk搭建中继服务器 
-
-https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOverview
-
-
-
-‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
-
-https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
-
-‍⁡‍﻿⁣⁢‌⁡﻿‌⁤⁢⁡‌‬﻿⁣⁣‬⁢⁡⁢﻿⁡⁣⁡
-
-Potplayer安装与设置教程
+## ➡️办公软件
+### Potplayer安装与设置教程
 
 https://www.kdocs.cn/l/clmJIYpDA4mH
 
 ‌‌
 
-PS2025安装教程
+### PS2025安装教程
 
 https://www.kdocs.cn/l/camYZ7UK6kgi
 
 
 
-Adobe Acrobat DC 2025安装教程
+### Adobe Acrobat DC 2025安装教程
 
 https://www.kdocs.cn/l/ci7NRMCDf6Cf
 
+## ➡️技术教程
 
+### ‌‬‌‬‌⁡﻿⁣﻿﻿﻿‍‬⁢‍⁢⁤﻿‬⁢⁤⁢‍‬‍‬⁡⁤⁤‍⁢⁢⁢‬⁢‬⁤‌⁤﻿﻿‌⁤‬‌Rustdesk客户端编译 
 
-Grass注册教程
-
-https://www.kdocs.cn/l/ctbtpus61irk
-
-
-
-批量加全屏格子防盗水印教程
-
-https://www.kdocs.cn/l/cmFrLSkZf2Qi
+https://xodnytdcaw.feishu.cn/wiki/Vrcow8yKgi2D9jk3EyucOnnBnDh?fromScene=spaceOverview
 
 
 
-AI打造爆火baby视频，狂澜百万流量的秘密！
+### ‍‬‬‬‍‌⁣⁢⁡⁣‍⁢⁣﻿﻿‍⁣‌﻿⁡⁣⁤⁣‍⁡﻿⁡⁣‍⁣‬‬‍‍⁡‬‌﻿⁢⁤⁤⁢⁡﻿‬Rust desk搭建中继服务器 
 
-https://www.kdocs.cn/l/cv5shGgd7kS4
+https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOverview
 
 
 
-My tv直播源
+### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
+
+https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
+
+‍⁡‍﻿⁣⁢
+
+## ➡️TV软件
+
+### My tv直播源
 
 https://www.kdocs.cn/l/cgLUgdfBzKZi
 
 
 
-TVbox 教程+直播源
+### TVbox 教程+直播源
 
 https://www.kdocs.cn/l/cbqzlC3waPFX
 
-
-
-网盘产品解决方案
-
-https://www.kdocs.cn/l/cjsLE86M8d99
-
-
-
-小红书封面风格
-
-https://www.kdocs.cn/l/crD0Gi9h18bd
-
-
-
-GPT4O改图案例库
-
-https://www.kdocs.cn/l/cuqiElhL7qgd
-
-
-## ➡️图形图像
-[壁纸网站](/article/软件安利/5个壁纸网站.md)
-[(通稿)正版软件优惠，近期新品软件推荐](/article/软件安利/(通稿)正版软件优惠，近期新品软件推荐.md)
-
-## ➡️媒体工具
-[壁纸网站](/article/软件安利/5个壁纸网站.md)
-[(通稿)正版软件优惠，近期新品软件推荐](/article/软件安利/(通稿)正版软件优惠，近期新品软件推荐.md)
-
-## ➡️办公软件
-[壁纸网站](/article/软件安利/5个壁纸网站.md)
-[(通稿)正版软件优惠，近期新品软件推荐](/article/软件安利/(通稿)正版软件优惠，近期新品软件推荐.md)
-
-## ➡️编程开发
-[壁纸网站](/article/软件安利/5个壁纸网站.md)
-[(通稿)正版软件优惠，近期新品软件推荐](/article/软件安利/(通稿)正版软件优惠，近期新品软件推荐.md)
-
-## ➡️影音娱乐
-[壁纸网站](/article/软件安利/5个壁纸网站.md)
-[(通稿)正版软件优惠，近期新品软件推荐](/article/软件安利/(通稿)正版软件优惠，近期新品软件推荐.md)
-
-## ➡️网络软件
-[壁纸网站](/article/软件安利/5个壁纸网站.md)
-[(通稿)正版软件优惠，近期新品软件推荐](/article/软件安利/(通稿)正版软件优惠，近期新品软件推荐.md)
-
-
-## ➡️下载工具
-yt-dlp命令行下载视频指南
-https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
-
-
-‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用教程 
-https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
-
-‌‍⁤⁣‬⁤⁤⁡‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
-
-搞定微信视频号下载 
-https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
-
-
-
-搞定油管4K高清下载，附件软件
-https://www.kdocs.cn/l/cloFL4VVmyJP**
-
-## ➡️录频工具
-
-## ➡️卸载工具
-
-## ➡️桌面美化
-
-## ➡️笔记软件
-
-## ➡️chrome插件
+## 
 
 
 
