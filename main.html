@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
-  <title>大强附件表</title> <!-- 修改浏览器标签页标题 -->
+  <title>大强附件表</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
@@ -20,7 +20,8 @@
       name: '', // 确保站点标题为空
       coverpage: 'cover.md',
       loadNavbar: 'navbar.md',
-      maxLevel: 4,
+      maxLevel: 4, // 最大标题层级
+      subMaxLevel: 2, // 默认展开到二级标题
       auto2top: true,
       search: {
         maxAge: 86400000,
