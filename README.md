@@ -32,6 +32,8 @@
 
 ![大强logo]([https://742112.xyz/logo.png](https://i-blog.csdnimg.cn/blog_migrate/00bac1e4de62b741b7c73319eb54ec41.gif))
 
+<img src="https://i-blog.csdnimg.cn/blog_migrate/00bac1e4de62b741b7c73319eb54ec41.gif" alt="大强logo" width="200">
+
 ----
 
 ## ➡️网站搭建
