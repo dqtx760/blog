@@ -1,7 +1,6 @@
 ## **大强附件表**
 
 ----
-<span style="background-color:  cyan;">我的视频主页，你可以方便的在这里查阅并下载每期视频的附件</span>
 
 <!-- First Row: B站 & 油管 -->
 
@@ -26,6 +25,7 @@
   </a>
 </div>
 </div>
+<span style="background-color:  cyan;">我的视频主页，你可以方便的在这里查阅并下载每期视频的附件</span>
 
 如需要远程技术支持：[<span style="color:red">点此前往</span>](https://www.742112.xyz)
 
