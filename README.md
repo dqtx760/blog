@@ -27,8 +27,10 @@
 </div>
 </div>
 
-如需要远程技术支持
-**可以点击红色文字：**[<span style="color:red">点此前往</span>](742112.xyz)
+如需要远程技术支持：
+
+[<span style="color:red">点此前往</span>](https://www.742112.xyz)
+
 
 ![大强logo]([https://742112.xyz/logo.png](https://i-blog.csdnimg.cn/blog_migrate/00bac1e4de62b741b7c73319eb54ec41.gif))
 
