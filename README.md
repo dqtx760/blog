@@ -1,6 +1,8 @@
 ## **大强测试表**
 
 ----
+<span style="background-color:  cyan;">我的视频主页，你可以方便的在这里查阅并下载每期视频的附件</span>
+
 <!-- First Row: B站 & 油管 -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px; margin-bottom: 10px;">
@@ -24,6 +26,8 @@
   </a>
 </div>
 </div>
+
+**大强远程技术支持：**[<span style="color:red">点此前往</span>](742112.xyz)
 
 ----
 
