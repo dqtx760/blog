@@ -29,7 +29,7 @@
 
 如需要远程技术支持：[<span style="color:red">点此前往</span>](https://www.742112.xyz)
 
-![1](/image/fm.gif)
+![1](/image/fmt.gif)
 
 
 
