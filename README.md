@@ -27,14 +27,11 @@
 </div>
 </div>
 
-如需要远程技术支持：
+如需要远程技术支持：[<span style="color:red">点此前往</span>](https://www.742112.xyz)
 
-[<span style="color:red">点此前往</span>](https://www.742112.xyz)
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/640.gif)
 
-
-![大强logo]([https://742112.xyz/logo.png](https://i-blog.csdnimg.cn/blog_migrate/00bac1e4de62b741b7c73319eb54ec41.gif))
-
-<img src="https://i-blog.csdnimg.cn/blog_migrate/00bac1e4de62b741b7c73319eb54ec41.gif" alt="大强logo" width="200">
+![111](https://gitee.com/da-qiang-classmate/typora/raw/master/image/7e4870f2-47c2-4e4f-9858-c2438466f386.png)
 
 ----
 
