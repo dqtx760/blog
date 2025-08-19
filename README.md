@@ -164,8 +164,8 @@ https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 |----------------|---------------------------------------------------------------------|
 | 袋鼠影视       | [https://dsdytv.com/frim/index1.html](https://dsdytv.com/frim/index1.html) |
 | 低端影视       | [https://ddys.pro/](https://ddys.pro/) |
-| 5点电影        | [https://www.5.movie/?utm_source=WZYY-xiaozhongjishu&utm_medium=WZYY-xiaozhongjishu-5dian&utm_id=WZYY-xiaozhongjishu](https://www.5.movie/?utm_source=WZYY-xiaozhongjishu&utm_medium=WZYY-xiaozhongjishu-5dian&utm_id=WZYY-xiaozhongjishu) |
-| 洋洋看剧网     | [https://www.lyjiguangqiege.com/connel/qitapian.html](https://www.lyjiguangqiege.com/connel/qitapian.html) |
+| 5点电影        | [https://www.5.movie/vodtype/20.html) |
+| 农民影视     | [https://www.lyjiguangqiege.com/) |
 | Auete     | [https://auete.cc/Movie/index.html](https://auete.cc/Movie/index.html) |
 | Vidhub   | [https://vidhub4.cc/vodtype/1.html](https://vidhub4.cc/vodtype/1.html) |
 | HDmoli         | [https://www.hdmoli.pro/](https://www.hdmoli.pro/) |
