@@ -139,27 +139,27 @@ https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 
 ### 16短视频去水印解析网站
 ----
-| 平台       | 网站名称/描述                                  | URL                                                                 |
+| 平台       | 网站描述                                  | 🔗地址                                                               |
 |------------|----------------------------------------------|---------------------------------------------------------------------|
-| **多平台**  | cobalt.tools                                | [https://cobalt.tools/](https://cobalt.tools/)                     |
+| 多平台  | cobalt.tools                                | [https://cobalt.tools/](https://cobalt.tools/)                     |
 |            | QQ-YY 解析                                  | [https://jx.qq-yy.cn/](https://jx.qq-yy.cn/)                       |
 |            | BestVideoW                                  | [https://www.bestvideow.com/](https://www.bestvideow.com/)         |
 |            | PicSeed                                     | [https://picseed.com/](https://picseed.com/)                       |
-|            | DLPanda (中文支持)                          | [https://dlpanda.com/zh-CN](https://dlpanda.com/zh-CN)             |
+|            | DLPanda                           | [https://dlpanda.com/zh-CN](https://dlpanda.com/zh-CN)             |
 |            | TubeDown                                    | [https://tubedown.cn/](https://tubedown.cn/)                       |
-|            | GreenVideo (多平台支持)                     | [https://greenvideo.cc/bilibili](https://greenvideo.cc/bilibili)   |
-| **B站**    | ToolsGitHub (B站下载)                       | [https://toolskithub.com/zh-CN/bilibili-download](https://toolskithub.com/zh-CN/bilibili-download) |
-|            | GreenVideo (B站去水印)                      | [https://greenvideo.cc/bilibili](https://greenvideo.cc/bilibili)   |
-| **YouTube** | SaveFrom                                   | [https://savefrom.bz/](https://savefrom.bz/)                       |
-|            | Y2Mate (YouTube 下载)                      | [https://en.y2mate.is/tGyS/](https://en.y2mate.is/tGyS/)           |
-| **推特**   | TwDown (推特视频下载)                      | [https://twdown.net/index.php](https://twdown.net/index.php)       |
+|            | GreenVideo                  | [https://greenvideo.cc/bilibili](https://greenvideo.cc/bilibili)   |
+| B站  | ToolsGitHub                      | [https://toolskithub.com/zh-CN/bilibili-download](https://toolskithub.com/zh-CN/bilibili-download) |
+|            | GreenVideo                     | [https://greenvideo.cc/bilibili](https://greenvideo.cc/bilibili)   |
+| 油管 | SaveFrom                                   | [https://savefrom.bz/](https://savefrom.bz/)                       |
+|            | Y2Mate                       | [https://en.y2mate.is/tGyS/](https://en.y2mate.is/tGyS/)           |
+| 推特   | TwDown                     | [https://twdown.net/index.php](https://twdown.net/index.php)       |
 |            | Twitter Video Downloader                   | [https://twittervideodownloader.com/](https://twittervideodownloader.com/) |
-|            | PicSeed (支持推特)                         | [https://picseed.com/](https://picseed.com/)                       |
-| **TikTok** | SavetikPro (TikTok 下载)                   | [https://savetikpro.com/zh-cn](https://savetikpro.com/zh-cn)       |
-| **微博**   | 微博去水印工具                             | [https://dy.kukutool.com/weibo](https://dy.kukutool.com/weibo)     |
+|            | PicSeed                         | [https://picseed.com/](https://picseed.com/)                       |
+| Tk | SavetikPro                   | [https://savetikpro.com/zh-cn](https://savetikpro.com/zh-cn)       |
+| 微博   | 微博去水印工具                             | [https://dy.kukutool.com/weibo](https://dy.kukutool.com/weibo)     |
 
 ### 13个在线观影网站
-----
+
 | 网站名称       | URL                                                                 |
 |----------------|---------------------------------------------------------------------|
 | 袋鼠影视       | [https://dsdytv.com/frim/index1.html](https://dsdytv.com/frim/index1.html) |
