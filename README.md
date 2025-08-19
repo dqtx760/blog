@@ -28,7 +28,7 @@
 
 <span style="background-color:  cyan;">这个网站，会整理精选我往期视频用到的全部资料与下载链接！</span>
 
-如需提供远程技术支持访问：[<span style="color:red">点此前往</span>](https://www.742112.xyz)
+如需提供远程技术支持：[<span style="color:red">点此访问</span>](https://www.742112.xyz)
 
 ![1](/image/fmt.gif)
 
