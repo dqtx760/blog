@@ -129,6 +129,7 @@ https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOve
 
 ### 网盘直链解析
 https://lz.qaiu.top/
+
 https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 
 ### 9个壁纸下载网站
@@ -136,49 +137,58 @@ https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 
 [4kwallpapers](https://4kwallpapers.com/)|[wallspic](https://wallspic.com/cn)|[alphacoders](https://alphacoders.com/newest-8k-wallpapers)|[uhdpaper](https://www.uhdpaper.com/search?q=Scenery&by-date=true)
 
-### 7短视频去水印解析网站
-https://cobalt.tools/「cobalt」
+### 短视频去水印解析网站
 
-https://dy.kukutool.com/「快手」
+支持多平台
 
-https://jx.hmily.vip/dy/#「抖音」
+https://cobalt.tools/
 
-https://youtube.iiilab.com/「支持N个视频平台」
+https://jx.qq-yy.cn/
 
-https://zhouql.vip/bilibili/「B站」
+https://www.bestvideow.com/
 
-https://dlpanda.com/zh-CN「TikTok」
+https://picseed.com/
 
-https://snapany.com/zh/tiktok「抖音/TikTok图片」
+https://dlpanda.com/zh-CN
 
-https://picseed.com/「微博、小红书、推特、Spotify、Apple Music、即刻图片下载器」
+https://tubedown.cn/
+
+https://greenvideo.cc/bilibili
+
+B站
+
+https://toolskithub.com/zh-CN/bilibili-download
+
+https://greenvideo.cc/bilibili
+
+油管
+
+https://savefrom.bz/
+
+https://en.y2mate.is/tGyS/
+
+推特
+
+https://twdown.net/index.php
+
+https://twittervideodownloader.com/
+
+https://picseed.com/
+
+[Tiktok](https://savetikpro.com/zh-cn) 
+
+[微博去水印](https://dy.kukutool.com/weibo)
+
 
 ### 13个在线观影网站
-[低端影视](https://ddys.pro/)
+[袋鼠影视](https://dsdytv.com/frim/index1.html)|[厂长资源](https://www.czzymovie.com/zuixindianying)|[低端影视](https://ddys.pro/)
 
-[Auete影视](https://auete.cc/Movie/index.html)
+[5点电影](https://www.5.movie/?utm_source=WZYY-xiaozhongjishu&utm_medium=WZYY-xiaozhongjishu-5dian&utm_id=WZYY-xiaozhongjishu)|[素白白影视](https://www.subaibai.com/new-movie)|[洋洋看剧网](https://www.lyjiguangqiege.com/connel/qitapian.html)
 
-[Vidhub视频库](https://vidhub4.cc/vodtype/1.html)
+[4k影视](https://www.4kvm.net/)|[Auete影视](https://auete.cc/Movie/index.html)|[Vidhub视频库](https://vidhub4.cc/vodtype/1.html)
 
-[5点电影](https://www.5.movie/?utm_source=WZYY-xiaozhongjishu&utm_medium=WZYY-xiaozhongjishu-5dian&utm_id=WZYY-xiaozhongjishu)
+[Tubi](https://tubitv.com/)|[HDmoli](https://www.hdmoli.pro/)|[Crackle](https://www.crackle.com/)|[Myflixer](https://myflixer.is/home)
 
-[素白白影视](https://www.subaibai.com/new-movie)
-
-[HDmoli](https://www.hdmoli.pro/)
-
-[4k影视](https://www.4kvm.net/)
-
-[Tubi](https://tubitv.com/)
-
-[Crackle](https://www.crackle.com/)
-
-[Myflixer](https://myflixer.is/home)
-
-[洋洋看剧网](https://www.lyjiguangqiege.com/connel/qitapian.html)
-
-[袋鼠影视](https://dsdytv.com/frim/index1.html)
-
-[厂长资源](https://www.czzymovie.com/zuixindianying)
 
 ## ➡️<b style="color: red;">常用cmd命令</b>
 
