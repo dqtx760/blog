@@ -69,7 +69,7 @@ https://github.com/oop7/YTSage
 
 ## ➡️<b style="color: red;">系统优化</b>
 
-### Windows电脑常见问题维修指南
+### Windows电脑常见问题维修
 https://www.kdocs.cn/l/ceAmpw14G8lD
 
 ### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
@@ -81,7 +81,7 @@ https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOve
 ### Windows10美化入门教程 
 https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
 
-### 使用U盘给电话重装系统指南
+### U盘重装系统保姆级教程
 https://www.kdocs.cn/l/cjvZ1YqoN4Kr
 
 ### cmd/PowerShell美化 
@@ -90,10 +90,10 @@ https://xodnytdcaw.feishu.cn/wiki/ML9MwFQ1vijfHikBc48cq9dunjc?fromScene=spaceOve
 ### ‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案
 https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOverview
 ⁢‍﻿⁢‬‍⁡‬‬
-### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用完全指南
+### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用
 https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
 
-## ➡️网站搭建
+## ➡️<b style="color: red;">网站搭建</b>
 
 ### GitHub访问/下载加速
 https://www.kdocs.cn/l/camMGgeBbn1K
@@ -124,6 +124,44 @@ https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOve
 
 ### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
 https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
+
+## ➡️<b style="color: red;">在线网站网站</b>
+
+### 网盘直链解析
+https://lz.qaiu.top/
+https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
+
+### https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
+
+### 9个壁纸下载网站
+[哲风壁纸](https://haowallpaper.com/)|[拾光壁纸](https://netbian.timeline.ink/home)|[致美化](https://zhutix.com/wallpaper/)|[暖糖壁纸](https://www.nuantang.net/)|[极简壁纸](https://bz.zzzmh.cn/index?time=5e4rrofz21)|[轻壁纸](https://qingbizhi.com/)
+
+[4kwallpapers](https://4kwallpapers.com/)|[wallspic](https://wallspic.com/cn)|[alphacoders](https://alphacoders.com/newest-8k-wallpapers)|[uhdpaper](https://www.uhdpaper.com/search?q=Scenery&by-date=true)
+
+### 7短视频去水印解析网站
+https://cobalt.tools/「cobalt」
+https://dy.kukutool.com/「快手」
+https://jx.hmily.vip/dy/#「抖音」
+https://youtube.iiilab.com/「支持N个视频平台」
+https://zhouql.vip/bilibili/「B站」
+https://dlpanda.com/zh-CN「TikTok」
+https://snapany.com/zh/tiktok「抖音/TikTok图片」
+https://picseed.com/「微博、小红书、推特、Spotify、Apple Music、即刻图片下载器」
+
+### 13个在线观影网站
+[低端影视](https://ddys.pro/)
+[Auete影视](https://auete.cc/Movie/index.html)
+[Vidhub视频库](https://vidhub4.cc/vodtype/1.html)
+[5点电影](https://www.5.movie/?utm_source=WZYY-xiaozhongjishu&utm_medium=WZYY-xiaozhongjishu-5dian&utm_id=WZYY-xiaozhongjishu)
+[素白白影视](https://www.subaibai.com/new-movie)
+[HDmoli](https://www.hdmoli.pro/)
+[4k影视](https://www.4kvm.net/)
+[Tubi](https://tubitv.com/)
+[Crackle](https://www.crackle.com/)
+[Myflixer](https://myflixer.is/home)
+[洋洋看剧网](https://www.lyjiguangqiege.com/connel/qitapian.html)
+[袋鼠影视](https://dsdytv.com/frim/index1.html)
+[厂长资源](https://www.czzymovie.com/zuixindianying)
 
 ## ➡️<b style="color: red;">常用命令</b>
 
