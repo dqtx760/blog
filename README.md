@@ -164,12 +164,12 @@ https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 |----------------|---------------------------------------------------------------------|
 | 袋鼠影视       | [https://dsdytv.com/frim/index1.html](https://dsdytv.com/frim/index1.html) |
 | 低端影视       | [https://ddys.pro/](https://ddys.pro/) |
-| 5点电影        | [https://www.5.movie/vodtype/20.html) |
-| 农民影视     | [https://www.lyjiguangqiege.com/) |
-| Auete     | [https://auete.cc/Movie/index.html](https://auete.cc/Movie/index.html) |
+| 农民影视     | https://www.lyjiguangqiege.com/ |
+| 5点电影        | https://www.5.movie/vodtype/20.html |
 | Vidhub   | [https://vidhub4.cc/vodtype/1.html](https://vidhub4.cc/vodtype/1.html) |
 | HDmoli         | [https://www.hdmoli.pro/](https://www.hdmoli.pro/) |
 | Myflixer       | [https://myflixer.is/home](https://myflixer.is/home) |
+| Auete     | [https://auete.cc/Movie/index.html](https://auete.cc/Movie/index.html) |
 
 
 ## ➡️<b style="color: red;">cmd命令</b>
