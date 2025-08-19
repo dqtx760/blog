@@ -139,55 +139,37 @@ https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 
 ### 短视频去水印解析网站
 
-支持多平台
-
-https://cobalt.tools/
-
-https://jx.qq-yy.cn/
-
-https://www.bestvideow.com/
-
-https://picseed.com/
-
-https://dlpanda.com/zh-CN
-
-https://tubedown.cn/
-
-https://greenvideo.cc/bilibili
-
-B站
-
-https://toolskithub.com/zh-CN/bilibili-download
-
-https://greenvideo.cc/bilibili
-
-油管
-
-https://savefrom.bz/
-
-https://en.y2mate.is/tGyS/
-
-推特
-
-https://twdown.net/index.php
-
-https://twittervideodownloader.com/
-
-https://picseed.com/
-
-[Tiktok](https://savetikpro.com/zh-cn) 
-
-[微博去水印](https://dy.kukutool.com/weibo)
-
+| 平台       | 网站名称/描述                                  | URL                                                                 |
+|------------|----------------------------------------------|---------------------------------------------------------------------|
+| **多平台**  | cobalt.tools                                | [https://cobalt.tools/](https://cobalt.tools/)                     |
+|            | QQ-YY 解析                                  | [https://jx.qq-yy.cn/](https://jx.qq-yy.cn/)                       |
+|            | BestVideoW                                  | [https://www.bestvideow.com/](https://www.bestvideow.com/)         |
+|            | PicSeed                                     | [https://picseed.com/](https://picseed.com/)                       |
+|            | DLPanda (中文支持)                          | [https://dlpanda.com/zh-CN](https://dlpanda.com/zh-CN)             |
+|            | TubeDown                                    | [https://tubedown.cn/](https://tubedown.cn/)                       |
+|            | GreenVideo (多平台支持)                     | [https://greenvideo.cc/bilibili](https://greenvideo.cc/bilibili)   |
+| **B站**    | ToolsGitHub (B站下载)                       | [https://toolskithub.com/zh-CN/bilibili-download](https://toolskithub.com/zh-CN/bilibili-download) |
+|            | GreenVideo (B站去水印)                      | [https://greenvideo.cc/bilibili](https://greenvideo.cc/bilibili)   |
+| **YouTube** | SaveFrom                                   | [https://savefrom.bz/](https://savefrom.bz/)                       |
+|            | Y2Mate (YouTube 下载)                      | [https://en.y2mate.is/tGyS/](https://en.y2mate.is/tGyS/)           |
+| **推特**   | TwDown (推特视频下载)                      | [https://twdown.net/index.php](https://twdown.net/index.php)       |
+|            | Twitter Video Downloader                   | [https://twittervideodownloader.com/](https://twittervideodownloader.com/) |
+|            | PicSeed (支持推特)                         | [https://picseed.com/](https://picseed.com/)                       |
+| **TikTok** | SavetikPro (TikTok 下载)                   | [https://savetikpro.com/zh-cn](https://savetikpro.com/zh-cn)       |
+| **微博**   | 微博去水印工具                             | [https://dy.kukutool.com/weibo](https://dy.kukutool.com/weibo)     |
 
 ### 13个在线观影网站
-[袋鼠影视](https://dsdytv.com/frim/index1.html)|[厂长资源](https://www.czzymovie.com/zuixindianying)|[低端影视](https://ddys.pro/)
 
-[5点电影](https://www.5.movie/?utm_source=WZYY-xiaozhongjishu&utm_medium=WZYY-xiaozhongjishu-5dian&utm_id=WZYY-xiaozhongjishu)|[素白白影视](https://www.subaibai.com/new-movie)|[洋洋看剧网](https://www.lyjiguangqiege.com/connel/qitapian.html)
-
-[4k影视](https://www.4kvm.net/)|[Auete影视](https://auete.cc/Movie/index.html)|[Vidhub视频库](https://vidhub4.cc/vodtype/1.html)
-
-[Tubi](https://tubitv.com/)|[HDmoli](https://www.hdmoli.pro/)|[Crackle](https://www.crackle.com/)|[Myflixer](https://myflixer.is/home)
+| 网站名称       | URL                                                                 |
+|----------------|---------------------------------------------------------------------|
+| 袋鼠影视       | [https://dsdytv.com/frim/index1.html](https://dsdytv.com/frim/index1.html) |
+| 低端影视       | [https://ddys.pro/](https://ddys.pro/) |
+| 5点电影        | [https://www.5.movie/?utm_source=WZYY-xiaozhongjishu&utm_medium=WZYY-xiaozhongjishu-5dian&utm_id=WZYY-xiaozhongjishu](https://www.5.movie/?utm_source=WZYY-xiaozhongjishu&utm_medium=WZYY-xiaozhongjishu-5dian&utm_id=WZYY-xiaozhongjishu) |
+| 洋洋看剧网     | [https://www.lyjiguangqiege.com/connel/qitapian.html](https://www.lyjiguangqiege.com/connel/qitapian.html) |
+| Auete     | [https://auete.cc/Movie/index.html](https://auete.cc/Movie/index.html) |
+| Vidhub   | [https://vidhub4.cc/vodtype/1.html](https://vidhub4.cc/vodtype/1.html) |
+| HDmoli         | [https://www.hdmoli.pro/](https://www.hdmoli.pro/) |
+| Myflixer       | [https://myflixer.is/home](https://myflixer.is/home) |
 
 
 ## ➡️<b style="color: red;">常用cmd命令</b>
