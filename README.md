@@ -1,4 +1,4 @@
-## 大强附件表
+## **大强附件表**
 
 ----
 
@@ -33,7 +33,7 @@
 ![1](/image/fmt.gif)
 
 
-## ➡️绿色软件
+## ➡️**绿色软件**
 
 ### ﻿效率神器Listary，已解锁Pro版！
 https://mp.weixin.qq.com/s/2Dm1qHcwG5ELb6D2vwN-Gw
@@ -67,7 +67,7 @@ https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOve
 ### 搞定油管4K高清下载，采用yt-dlp构建
 https://github.com/oop7/YTSage
 
-## ➡️系统优化
+## ➡️**系统优化**
 ‌
 ### Windows电脑常见问题维修指南
 https://www.kdocs.cn/l/ceAmpw14G8lD
@@ -93,7 +93,7 @@ https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOve
 ### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用完全指南
 https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
 
-## ➡️网站搭建
+## ➡️**网站搭建**
 
 ### GitHub加速访问与下载
 https://www.kdocs.cn/l/camMGgeBbn1K
@@ -125,9 +125,9 @@ https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOve
 ### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
 https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
 
-## ➡️一行代码
+## ➡️**一行代码**
 
-### **PowerShell管理员运行**
+### PowerShell管理员运行
 | **说明**               | **命令**                                                                 |
 |------------------------|--------------------------------------------------------------------------|
 | 激活 Windows 系统       | `irm https://get.activated.win \| iex`（输入 `3`，稍后输入 `1`）         |
@@ -136,7 +136,7 @@ https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOve
 | 开启电源卓越性能        | `powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`         |
 | win11恢复完整右键        | `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve` |
 
-### **常用 CMD 命令**
+### 常用 CMD 命令
 | **说明**               | **命令**                                |
 |------------------------|----------------------------------------|
 | 打开环境变量           | `sysdm.cpl`                            |
@@ -154,7 +154,7 @@ https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOve
 | 高级系统设置           | `sysdm.cpl`                            |
 | 卸载程序               | `appwiz.cpl`                           |
 
-### **控制面板命令**
+### 控制面板命令
 | **说明**               | **命令**                |
 |------------------------|------------------------|
 | 打开控制面板           | `control`              |
@@ -166,7 +166,7 @@ https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOve
 | 打开系统配置           | `msconfig`             |
 | 打开服务管理           | `services.msc`         |
 
-### **系统工具 & 诊断**
+### 系统工具 & 诊断
 | **说明**               | **命令**                                |
 |------------------------|----------------------------------------|
 | 查看事件日志           | `eventvwr.msc`                         |
@@ -185,7 +185,7 @@ https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOve
 | 扫描并修复系统文件     | `sfc /scannow`                         |
 | 修复损坏的系统镜像     | `DISM /Online /Cleanup-Image /ScanHealth` |
 
-### **无线网络密码查询**
+### 无线网络密码查询
 | **说明**               | **命令**                                |
 |------------------------|----------------------------------------|
 | 列出保存的 WiFi 网络   | `netsh wlan show profiles`             |
