@@ -172,7 +172,7 @@ https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 | Myflixer       | [https://myflixer.is/home](https://myflixer.is/home) |
 
 
-## ➡️<b style="color: red;">常用cmd命令</b>
+## ➡️<b style="color: red;">cmd命令</b>
 
 ### PowerShell命令
 | **说明**               | **命令**                                                                 |
@@ -238,7 +238,7 @@ https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 | 列出保存的 WiFi 网络   | `netsh wlan show profiles`             |
 | 查看指定 WiFi 密码     | `netsh wlan show profile name="WiFi名称" key=clear` |
 
-## ➡️<b style="color: red;">电视&投影仪软件</b>
+## ➡️<b style="color: red;">TV软件</b>
 
 ### My tv直播源
 https://www.kdocs.cn/l/cgLUgdfBzKZi
