@@ -1,4 +1,6 @@
-## **大强附件表**
+## **<span style="color: #092e2b;">大强附件表</span> **
+## **<span style="background-color: #b7f605; color: #f9f9f9; padding: 2px 6px; border-radius: 4px;">大强附件表</span>**  
+
 
 ----
 
@@ -135,75 +137,68 @@ https://www.kdocs.cn/l/cgLUgdfBzKZi
 https://www.kdocs.cn/l/cbqzlC3waPFX
 
 ## ➡️一行代码
-```
-Powershell命令代码​
-irm https://get.activated.win | iex        先输入3，等会再输入1，激活Windows系统​
-irm https://get.activated.win | iex        先输入2，等会再输入1，激活Office​
-iex(irm is.gd/idm_reset)                      先输入1 ，之后输入 9，激活IDM（挂魔法）​
-powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61------开启电源卓越性能  ​
 
-恢复传统右键菜单​
-reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve​
+PowerShell管理员权限运行
+| **说明** | **命令** |
+|----------|----------|
+| **激活 Windows 系统** | `irm https://get.activated.win \| iex`（输入 `3`，稍后输入 `1`） |
+| **激活 Office** | `irm https://get.activated.win \| iex`（输入 `2`，稍后输入 `1`） |
+| **激活 IDM（需代理）** | `iex(irm is.gd/idm_reset)`（输入 `1`，稍后输入 `9`） |
+| **开启电源卓越性能** | `powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61` |
+| **恢复传统右键菜单** | `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve` |
+----
+常用 CMD 命令
+| **说明** | **命令** |
+|----------|----------|
+| **打开环境变量** | `sysdm.cpl` |
+| **重启进入 BIOS** | `shutdown /r /fw /t 0` |
+| **更改电脑用户名** | `netplwiz` |
+| **重新启动资源管理器** | `explorer.exe` |
+| **打开自启动文件夹** | `shell:startup` |
+| **打开注册表** | `regedit` |
+| **打开系统配置** | `msconfig` |
+| **查询 IP 地址** | `ipconfig` |
+| **打开网络适配器** | `ncpa.cpl` |
+| **清理 DNS 缓存** | `ipconfig /flushdns` |
+| **查询外网 IPv4 地址** | `curl 4.ipw.cn` |
+| **查看路由表** | `route print` |
+| **高级系统设置** | `sysdm.cpl` |
+| **卸载程序** | `appwiz.cpl` |
 
-cmd命令
-sysdm.cpl---------环境变量
-shutdown /r /fw /t 0  ---------------重启进入 BIOS
-netplwiz------------电脑用户名更改
-explorer.exe--------重新启动文件资源管理器
-shell:startup--------自启动文件夹
-regedit-----打开注册表
-msconfig----打开系统配置
-ipconfig---------ip地址查询
-ncpa.cpl-----网络适配器
-ipconfig /flushdns-------清理NDS缓存
-curl 4.ipw.cn---查询本机外网IPv4地址
-route print------路由表
-sysdm.cpl-----查看高级系统设置
-appwiz.cpl——添加或删除程序
+控制面板命令
+| **说明** | **命令** |
+|----------|----------|
+| **打开控制面板** | `control` |
+| **打开网络设置** | `ncpa.cpl` |
+| **打开注册表** | `regedit` |
+| **打开系统属性** | `sysdm.cpl` |
+| **打开设备管理器** | `devmgmt.msc` |
+| **打开用户管理** | `netplwiz` |
+| **打开系统配置** | `msconfig` |
+| **打开服务管理** | `services.msc` |
 
-控制面板      (control)
-网络设置      (ncpa.cpl)
-注册表        (regedit)
-系统属性      (sysdm.cpl)
-设备管理器    (devmgmt.msc)
-用户管理      (netplwiz)
-系统配置      (msconfig)
-服务管理      (services.msc)
+系统工具 & 诊断
+| **说明** | **命令** |
+|----------|----------|
+| **查看事件日志** | `eventvwr.msc` |
+| **查看 Windows 版本** | `winver` |
+| **查看系统信息** | `msinfo32` |
+| **查看电脑配置** | `dxdiag` |
+| **查看已安装软件** | `shell:AppsFolder` |
+| **磁盘检查** | `dir /s` |
+| **清屏** | `cls` |
+| **打开屏幕键盘** | `osk` |
+| **运行恶意软件删除工具** | `mrt` |
+| **系统垃圾清理** | `cleanmgr /sagerun:1` |
+| **查询电脑序列号** | `wmic bios get serialnumber` |
+| **注册 DLL 文件** | `regsvr32 dbghelp.dll` |
+| **强制关闭任务管理器** | `taskkill /f /im taskmgr.exe` |
+| **打开防火墙** | `firewall.cpl` |
+| **扫描并修复系统文件** | `sfc /scannow` |
+| **修复损坏的系统镜像** | `DISM /Online /Cleanup-Image /ScanHealth` |
 
-Eventvwr.msc--日志​
-control------打开控制面板​
-regedit-----打开注册表​
-ipconfig /flushdns-------清理NDS缓存​
-curl 4.ipw.cn---查询本机外网IPv4地址​
-shell:startup--------自启动文件夹​
-Winver-----查看Windows版本​
-ncpa.cpl-----网络适配器​
-route print------路由表​
-control system-------查看计算器基本信息​
-msinfo32--------查看系统信息​
-dxdiag--------------电脑配置信息​
-msconfig----打开系统配置​
-ncpa.cpl----打开网络链接​
-control--------------打开控制面板​
-shell:AppsFolder------电脑安装的全部软件​
-dir/s------------------磁盘检查​
-cls-----------------清屏​
-osk-----打开屏幕键盘​
-mrt----恶意软件删除工具​
-cleanmgr /sagerun----系统垃圾清理​
-wmic bios get serialnumber----电脑序列号查询​
-regsvr32 dbghelp.dll----命令提示符注册dll​
-taskkill /f /im taskmgr.exe----强制关闭任务管理器​
-firewall.cpl--------------------------------打开防火墙​
-services.msc-----打开服务列表窗口​
-Sfc /scannow -----修复系统文件​
-DISM /Online /Cleanup-Image /ScanHealth-----损坏镜像修复​
-
-无线网密码查询命令
-管理员运行：netsh wlan show profiles​
-再运行：netsh wlan show profile name="WiFi网络名称" key=clear
-
-```
-
-
-
+无线网络密码查询
+| **说明** | **命令** |
+|----------|----------|
+| **列出保存的 WiFi 网络** | `netsh wlan show profiles` |
+| **查看指定 WiFi 密码** | `netsh wlan show profile name="WiFi名称" key=clear` |
