@@ -75,20 +75,17 @@ https://github.com/oop7/YTSage
 
 ## ➡️<b style="color: red;">系统优化</b>
 
-### Windows电脑常见问题维修
-https://www.kdocs.cn/l/ceAmpw14G8lD
-
 ### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
 https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview
+
+### U盘重装系统保姆级教程
+https://www.kdocs.cn/l/cjvZ1YqoN4Kr
 
 ### Windows优化常见工具包
 https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOverview
 
 ### Windows10美化入门教程 
 https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
-
-### U盘重装系统保姆级教程
-https://www.kdocs.cn/l/cjvZ1YqoN4Kr
 
 ### cmd/PowerShell美化 
 https://xodnytdcaw.feishu.cn/wiki/ML9MwFQ1vijfHikBc48cq9dunjc?fromScene=spaceOverview
