@@ -125,7 +125,7 @@ https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOve
 ### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
 https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
 
-## ➡️<b style="color: red;">在线网站网站</b>
+## ➡️<b style="color: red;">在线网站</b>
 
 ### 网盘直链解析
 https://lz.qaiu.top/
@@ -163,7 +163,7 @@ https://picseed.com/「微博、小红书、推特、Spotify、Apple Music、即
 [袋鼠影视](https://dsdytv.com/frim/index1.html)
 [厂长资源](https://www.czzymovie.com/zuixindianying)
 
-## ➡️<b style="color: red;">常用命令</b>
+## ➡️<b style="color: red;">常用cmd命令</b>
 
 ### PowerShell命令
 | **说明**               | **命令**                                                                 |
@@ -229,7 +229,7 @@ https://picseed.com/「微博、小红书、推特、Spotify、Apple Music、即
 | 列出保存的 WiFi 网络   | `netsh wlan show profiles`             |
 | 查看指定 WiFi 密码     | `netsh wlan show profile name="WiFi名称" key=clear` |
 
-## ➡️<b style="color: red;">TV软件</b>
+## ➡️<b style="color: red;">电视&投影仪软件</b>
 
 ### My tv直播源
 https://www.kdocs.cn/l/cgLUgdfBzKZi
