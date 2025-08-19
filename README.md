@@ -1,6 +1,4 @@
-## **<span style="color: #092e2b;">大强附件表</span> **
-## **<span style="background-color: #b7f605; color: #f9f9f9; padding: 2px 6px; border-radius: 4px;">大强附件表</span>**  
-
+## <strong style="background-color: #a717f2; color: #f9f9f9; padding: 2px 6px; border-radius: 4px;">大强附件表</strong>  
 
 ----
 
