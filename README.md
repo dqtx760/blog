@@ -41,11 +41,17 @@ https://mp.weixin.qq.com/s/2Dm1qHcwG5ELb6D2vwN-Gw
 ### ﻿Honeyview看图神器，免费无广告！
 https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g
 
+<span style="color: red;">🔗下载地址</span>: [点此直达](https://cn.bandisoft.com/bandiview/dl.php?web)
+
 ### ﻿Potplayer安装与设置教程
 https://www.kdocs.cn/l/clmJIYpDA4mH
 
+<span style="color: red;">🔗下载地址</span>: [站点1](https://potplayer.tv/)|[站点2](https://potplayer.daum.net/)|[迅雷云盘](https://pan.xunlei.com/s/VORL6x7rQcl9wnEAeUVjWOgHA1?pwd=4ffc#)
+
 ### ﻿Office 2024安装与激活
 https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw
+
+<span style="color: red;">🔗下载地址</span>：[mocreak](https://www.mocreak.com/download.html)|[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
 ### ﻿‌‌PS2025安装教程
 https://www.kdocs.cn/l/camYZ7UK6kgi
