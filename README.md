@@ -125,25 +125,16 @@ https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOve
 ### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
 https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
 
-
-## ➡️TV软件
-
-### My tv直播源
-https://www.kdocs.cn/l/cgLUgdfBzKZi
-
-### TVbox 教程+直播源
-https://www.kdocs.cn/l/cbqzlC3waPFX
-
 ## ➡️一行代码
 
-### **PowerShell（管理员权限运行）**
+### **PowerShell管理员运行**
 | **说明**               | **命令**                                                                 |
 |------------------------|--------------------------------------------------------------------------|
 | 激活 Windows 系统       | `irm https://get.activated.win \| iex`（输入 `3`，稍后输入 `1`）         |
 | 激活 Office             | `irm https://get.activated.win \| iex`（输入 `2`，稍后输入 `1`）         |
 | 激活 IDM（需代理）       | `iex(irm is.gd/idm_reset)`（输入 `1`，稍后输入 `9`）                     |
 | 开启电源卓越性能        | `powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`         |
-| 恢复传统右键菜单        | `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve` |
+| win11恢复完整右键        | `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve` |
 
 ### **常用 CMD 命令**
 | **说明**               | **命令**                                |
@@ -151,7 +142,7 @@ https://www.kdocs.cn/l/cbqzlC3waPFX
 | 打开环境变量           | `sysdm.cpl`                            |
 | 重启进入 BIOS          | `shutdown /r /fw /t 0`                 |
 | 更改电脑用户名         | `netplwiz`                             |
-| 重新启动资源管理器     | `explorer.exe`                         |
+| 重启资源管理器     | `explorer.exe`                         |
 | 打开自启动文件夹       | `shell:startup`                        |
 | 打开注册表             | `regedit`                              |
 | 打开系统配置           | `msconfig`                             |
@@ -184,7 +175,6 @@ https://www.kdocs.cn/l/cbqzlC3waPFX
 | 查看电脑配置           | `dxdiag`                               |
 | 查看已安装软件         | `shell:AppsFolder`                     |
 | 磁盘检查               | `dir /s`                               |
-| 清屏                   | `cls`                                  |
 | 打开屏幕键盘           | `osk`                                  |
 | 运行恶意软件删除工具   | `mrt`                                  |
 | 系统垃圾清理           | `cleanmgr /sagerun:1`                  |
@@ -201,7 +191,11 @@ https://www.kdocs.cn/l/cbqzlC3waPFX
 | 列出保存的 WiFi 网络   | `netsh wlan show profiles`             |
 | 查看指定 WiFi 密码     | `netsh wlan show profile name="WiFi名称" key=clear` |
 
+## ➡️TV软件
 
-|----------|----------|
-| **列出保存的 WiFi 网络** | `netsh wlan show profiles` |
-| **查看指定 WiFi 密码** | `netsh wlan show profile name="WiFi名称" key=clear` |
+### My tv直播源
+https://www.kdocs.cn/l/cgLUgdfBzKZi
+
+### TVbox 教程+直播源
+https://www.kdocs.cn/l/cbqzlC3waPFX
+
