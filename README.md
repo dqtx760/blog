@@ -135,12 +135,12 @@ https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 ### 9个壁纸下载网站
 
 | [哲风壁纸](https://haowallpaper.com/) | [拾光壁纸](https://netbian.timeline.ink/home) | [致美化](https://zhutix.com/wallpaper/) |
-|------------------|------------------|------------------|
-| [暖糖壁纸](https://www.nuantang.net/) | [极简壁纸](https://bz.zzzmh.cn/index?time=5e4rrofz21) | [轻壁纸](https://qingbizhi.com/) |
-| [4kwallpapers](https://4kwallpapers.com/) | [wallspic](https://wallspic.com/cn) | [alphacoders](https://alphacoders.com/newest-8k-wallpapers) |
+|:-----------------|:-----------------|:-----------------|  
+| [暖糖壁纸](https://www.nuantang.net/) | [极简壁纸](https://bz.zzzmh.cn/index?time=5e4rrofz21) | [轻壁纸](https://qingbizhi.com/) |  
+| [4kwallpapers](https://4kwallpapers.com/) | [wallspic](https://wallspic.com/cn) | [alphacoders](https://alphacoders.com/newest-8k-wallpapers) |  
 
 ### 16短视频去水印解析网站
-----
+
 | 平台       | 网站描述                                  | 🔗地址                                                               |
 |------------|----------------------------------------------|---------------------------------------------------------------------|
 | 多平台  | cobalt.tools                                | [https://cobalt.tools/](https://cobalt.tools/)                     |
