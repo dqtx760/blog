@@ -33,9 +33,9 @@
 ![1](/image/fmt.gif)
 
 
-## ➡️**绿色软件**
+## ➡️**<b style="color: red;">绿色软件</b>**
 
-### ﻿效率神器Listary，已解锁Pro版！
+### ﻿Listary文件搜索神器绿色版！
 https://mp.weixin.qq.com/s/2Dm1qHcwG5ELb6D2vwN-Gw
 
 ### ﻿Honeyview看图神器，免费无广告！
@@ -67,7 +67,7 @@ https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOve
 ### 搞定油管4K高清下载，采用yt-dlp构建
 https://github.com/oop7/YTSage
 
-## ➡️**系统优化**
+## ➡️**<b style="color: red;">系统优化</b>**
 ‌
 ### Windows电脑常见问题维修指南
 https://www.kdocs.cn/l/ceAmpw14G8lD
@@ -95,7 +95,7 @@ https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOve
 
 ## ➡️**网站搭建**
 
-### GitHub加速访问与下载
+### GitHub访问/下载加速
 https://www.kdocs.cn/l/camMGgeBbn1K
 
 ### GitHub零基础入门指南 
@@ -104,13 +104,13 @@ https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOve
 ### ﻿‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vercel+Docsify上线静态博客
 https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
 
-### 利用GitHub与Vercel零成本建站！
+### GitHub+Vercel零成本搭建网站！
 https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview
 
 ### ‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
 https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview
 
-### 建站：云服务器_域名低价购买教程
+### 建站：云服务器/域名低价购买渠道
 https://www.kdocs.cn/l/caiKt4XO3TtQ
 
 ### ⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名 
@@ -125,9 +125,9 @@ https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOve
 ### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
 https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
 
-## ➡️**一行代码**
+## ➡️**<b style="color: red;">常用命令</b>**
 
-### PowerShell管理员运行
+### PowerShell命令
 | **说明**               | **命令**                                                                 |
 |------------------------|--------------------------------------------------------------------------|
 | 激活 Windows 系统       | `irm https://get.activated.win \| iex`（输入 `3`，稍后输入 `1`）         |
@@ -136,7 +136,7 @@ https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOve
 | 开启电源卓越性能        | `powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`         |
 | win11恢复完整右键        | `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve` |
 
-### 常用 CMD 命令
+### CMD常用命令
 | **说明**               | **命令**                                |
 |------------------------|----------------------------------------|
 | 打开环境变量           | `sysdm.cpl`                            |
@@ -166,7 +166,7 @@ https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOve
 | 打开系统配置           | `msconfig`             |
 | 打开服务管理           | `services.msc`         |
 
-### 系统工具 & 诊断
+### 系统工具&诊断
 | **说明**               | **命令**                                |
 |------------------------|----------------------------------------|
 | 查看事件日志           | `eventvwr.msc`                         |
@@ -191,7 +191,7 @@ https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOve
 | 列出保存的 WiFi 网络   | `netsh wlan show profiles`             |
 | 查看指定 WiFi 密码     | `netsh wlan show profile name="WiFi名称" key=clear` |
 
-## ➡️TV软件
+## ➡️**<b style="color: red;">TV软件</b>**
 
 ### My tv直播源
 https://www.kdocs.cn/l/cgLUgdfBzKZi
