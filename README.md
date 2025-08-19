@@ -33,7 +33,7 @@
 ![1](/image/fmt.gif)
 
 
-## ➡️**<b style="color: red;">绿色软件</b>**
+## ➡️<b style="color: red;">绿色软件</b>
 
 ### ﻿Listary文件搜索神器绿色版！
 https://mp.weixin.qq.com/s/2Dm1qHcwG5ELb6D2vwN-Gw
@@ -67,7 +67,7 @@ https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOve
 ### 搞定油管4K高清下载，采用yt-dlp构建
 https://github.com/oop7/YTSage
 
-## ➡️**<b style="color: red;">系统优化</b>**
+## ➡️<b style="color: red;">系统优化</b>
 ‌
 ### Windows电脑常见问题维修指南
 https://www.kdocs.cn/l/ceAmpw14G8lD
@@ -93,7 +93,7 @@ https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOve
 ### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用完全指南
 https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
 
-## ➡️**网站搭建**
+## ➡️网站搭建
 
 ### GitHub访问/下载加速
 https://www.kdocs.cn/l/camMGgeBbn1K
@@ -125,7 +125,7 @@ https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOve
 ### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
 https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
 
-## ➡️**<b style="color: red;">常用命令</b>**
+## ➡️<b style="color: red;">常用命令</b>
 
 ### PowerShell命令
 | **说明**               | **命令**                                                                 |
@@ -191,7 +191,7 @@ https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOve
 | 列出保存的 WiFi 网络   | `netsh wlan show profiles`             |
 | 查看指定 WiFi 密码     | `netsh wlan show profile name="WiFi名称" key=clear` |
 
-## ➡️**<b style="color: red;">TV软件</b>**
+## ➡️<b style="color: red;">TV软件</b>
 
 ### My tv直播源
 https://www.kdocs.cn/l/cgLUgdfBzKZi
