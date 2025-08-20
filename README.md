@@ -68,9 +68,9 @@ https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOve
 ### 搞定微信视频号下载 
 https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
 
-<span style="color: red;">下载链接</span>：(EP25811)
+<span style="color: red;">🔗下载链接</span>：(EP25811)
 
-[🔗开源地址](https://github.com/ltaoo/wx_channels_download) | [🔗迅雷云盘](https://pan.xunlei.com/s/VOXNsSH2yrt68jPfe3ry7ZDKA1?pwd=jn8b#)
+[开源地址](https://github.com/ltaoo/wx_channels_download) | [迅雷云盘](https://pan.xunlei.com/s/VOXNsSH2yrt68jPfe3ry7ZDKA1?pwd=jn8b#)
 
 ### 搞定油管4K高清下载，采用yt-dlp构建
 https://github.com/oop7/YTSage
@@ -89,7 +89,7 @@ https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOve
 ### Windows10美化入门教程 
 https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
 
-### cmd/PowerShell美化 
+### cmd/PowerShell美化工具包 
 https://xodnytdcaw.feishu.cn/wiki/ML9MwFQ1vijfHikBc48cq9dunjc?fromScene=spaceOverview
 ‌⁢‬⁢⁤﻿⁤⁤‌⁣﻿⁡⁢⁢﻿
 ### ‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案
