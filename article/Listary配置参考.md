@@ -14,9 +14,7 @@ PS.安装后，左键双击-选项-常规设置，取消“自动检测更新”
 
 ## 网络搜索
 
-左键双击-选项-网络搜索，删除你不需要的项目，
-
-下面是一些常用的社交媒体配置项目，用到的
+左键双击-选项-网络搜索，删除你不需要的项目，下面是一些常用的社交媒体配置添加规则，用到的谷歌/百度/必应（g/b/ing/）
 
 | 项目   | 关键词  | URL                                                         | Custom                                                       |
 | ------ | ------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
@@ -26,6 +24,7 @@ PS.安装后，左键双击-选项-常规设置，取消“自动检测更新”
 | 小红书 | xhs    | https://www.xiaohongshu.com/search_result?keyword={query}   | https://www.xiaohongshu.com/search_result?keyword={query}    |
 | GitHub | git    | https://github.com/search?q={query}                         | cmd /k gh {query}                                            |
 | 抖音   | dy     | https://www.douyin.com/search/{query}                       | cmd /k tt {query}                                            |
+
 
 
 
