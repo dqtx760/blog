@@ -35,11 +35,9 @@
 
 ## ➡️<b style="color: red;">绿色软件</b>
 
-### ﻿Listary Pro 6.3.0.78 
+### ﻿文件搜索Listary Pro 6.3.0.78 
 
-[网络搜索配置参考](/article/软件安利/Listary配置参考.md)
-
-<span style="color: red;">🔗下载地址</span>：[点击直达]([https://www.mocreak.com/download.html](https://pan.xunlei.com/s/VOYAwMb4ojr3UbR0T6zCer4wA1?pwd=eq59#))
+<span style="color: red;">🔗下载地址</span>：[点击直达]([https://www.mocreak.com/download.html](https://pan.xunlei.com/s/VOYAwMb4ojr3UbR0T6zCer4wA1?pwd=eq59#))|[参考资料](/article/软件安利/Listary配置参考.md)
 
 
 ### ﻿Honeyview看图神器，免费无广告！
