@@ -62,7 +62,12 @@ https://www.kdocs.cn/l/ci7NRMCDf6Cf
 https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
 
 ### ‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用
-https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
+
+‌⁣‬⁣⁣﻿<span style="color: red;">🔗下载链接</span>：‬⁡[官网下载](https://mirror2.internetdownloadmanager.com/idman642build36.exe) | [激活工具](https://pan.xunlei.com/s/VOY7D0CnkcoBobh3Az0dqEOPA1?pwd=z5be#) | [参考资料](https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview‌⁣‬⁣⁣﻿‌‬⁡‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿ ‌‍⁤⁣‬⁤⁤‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡)
+
+```
+3GP 7Z AAC ACE AI AIF ALZ APK APP APPX APPXBUNDLE ARC ARJ ASF AVI BH BIN BR BUNDLE BZ BZ2 CDA CSV DIF DLL DMG DOC DOCX EGG EPS EXE FLV GZ GZIP IMG IPA ISO ISZ JAR KEXT LHA LZ LZH LZMA M4A M4V MDB MID MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSIX MSIXBUNDLE MSU MUI OGG OGV PDF PKG PPT PPTX PSD PST PUB QT R0* R1* RA RAR RM RMVB RTF SEA SIT SITX SLDM SLDX TAR TBZ TBZ2 TGZ TIF TIFF TLZ TXZ UDF VOB VSD VSDM VSDX VSS VSSM VST VSTM VSTX WAR WAV WBK WIM WKS WMA WMD WMS WMV WMZ WP5 WPD WPS XLS XLSX XPS XZ Z ZIP ZIPX ZPAQ ZSTD
+```‌⁣⁢⁢‍‌⁢⁡⁢⁡‬⁤⁢﻿⁣⁣‍⁢⁢﻿
 ‌‍⁤⁣‬⁤⁤‌⁣⁡﻿⁣‍⁡⁢⁢‬⁡‌‌⁡‍⁤‌‬⁣⁢﻿‍⁤‌⁡⁢⁢⁡⁢⁣⁡
 ### 搞定微信视频号下载 
 https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
