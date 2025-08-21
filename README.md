@@ -66,11 +66,10 @@ https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOve
 ‌⁣‬⁣⁣﻿<span style="color: red;">🔗下载链接</span>：‬⁡[官网下载](https://mirror2.internetdownloadmanager.com/idman642build36.exe) | [激活工具](https://pan.xunlei.com/s/VOY7D0CnkcoBobh3Az0dqEOPA1?pwd=z5be#) | [参考资料](https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview%E2%80%8C%E2%81%A3%E2%80%AC%E2%81%A3%E2%81%A3)
 
 ### 搞定微信视频号下载
-‌⁢⁡⁢⁡‬⁤⁢﻿https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview
 
 <span style="color: red;">🔗下载链接</span>：(EP25811)
 
-[开源地址](https://github.com/ltaoo/wx_channels_download) | [迅雷云盘](https://pan.xunlei.com/s/VOXNsSH2yrt68jPfe3ry7ZDKA1?pwd=jn8b#)
+[开源地址](https://github.com/ltaoo/wx_channels_download) | [迅雷云盘](https://pan.xunlei.com/s/VOXNsSH2yrt68jPfe3ry7ZDKA1?pwd=jn8b#) | [参考资料](https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview)
 
 ### 搞定油管4K高清下载，采用yt-dlp构建
 https://github.com/oop7/YTSage
