@@ -100,7 +100,10 @@ https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOve
 ## ➡️<b style="color: red;">网站搭建</b>
 
 ### GitHub访问/下载加速
-https://www.kdocs.cn/l/camMGgeBbn1K
+
+访问加速工具：[steampp](https://steampp.net/) | [dev-sidecar](https://github.com/docmirror/dev-sidecar)
+
+下载加速工具：[站点1](https://yishijie.gitlab.io/ziyuan/) | [站点2](https://ghproxy.net/) | [站点3](https://doget.nocsdn.com/#/) | [站点4](https://github.akams.cn/) | [站点5](https://gh-proxy.com/)
 
 ### GitHub零基础入门指南 
 https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
