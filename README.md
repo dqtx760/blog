@@ -74,6 +74,12 @@ https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOve
 ### 搞定油管4K高清下载，采用yt-dlp构建
 https://github.com/oop7/YTSage
 
+### chrome插件合集更新
+https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
+
+### 零碎教程汇总
+https://discreet-ringer-ef6.notion.site/Win-1f5351994e4080a29899ec97e76e10a7
+
 ## ➡️<b style="color: red;">系统优化</b>
 
 ### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
@@ -113,6 +119,12 @@ https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOve
 
 ### GitHub+Vercel零成本搭建网站！
 https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview
+
+### OpenList网盘挂载
+https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview
+
+### 闲鱼虚拟自动发货，附闲管家邀请码！
+https://www.kdocs.cn/l/cnNiOhFzqJA8
 
 ### ‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
 https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview
