@@ -20,7 +20,7 @@
   <a href="https://www.xiaohongshu.com/user/profile/5ce0d3a7000000001202e31b" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
     <img src="https://img.shields.io/badge/📕_小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" style="max-height: 28px;">
   </a>
-  <a href="https://github.com/dqtx760" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
+  <a href="https://github.com/dqtx760/blog" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
     <img src="https://img.shields.io/badge/💻_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-height: 28px;">
   </a>
 </div>
