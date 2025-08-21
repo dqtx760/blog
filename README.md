@@ -46,7 +46,7 @@
 
 ### ﻿Potplayer安装与设置教程
 
-<span style="color: red;">🔗下载地址</span>: [官网1️⃣](https://potplayer.tv/) | [站点2️⃣](https://potplayer.daum.net/) | [迅雷云盘](https://pan.xunlei.com/s/VORL6x7rQcl9wnEAeUVjWOgHA1?pwd=4ffc#) | [参考资料](https://www.kdocs.cn/l/clmJIYpDA4mH)
+<span style="color: red;">🔗下载地址</span>: [官网¹](https://potplayer.tv/) | [官网²](https://potplayer.daum.net/) | [迅雷云盘](https://pan.xunlei.com/s/VORL6x7rQcl9wnEAeUVjWOgHA1?pwd=4ffc#) | [参考资料](https://www.kdocs.cn/l/clmJIYpDA4mH)
 
 ### ﻿Office 2024安装与激活
 
