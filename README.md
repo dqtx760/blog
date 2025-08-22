@@ -73,6 +73,7 @@ https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOve
 
 ### 搞定油管4K高清下载，采用yt-dlp构建
 https://github.com/oop7/YTSage
+https://423down.lanzouo.com/b03fkcmb9e
 
 ### chrome插件合集更新
 https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
