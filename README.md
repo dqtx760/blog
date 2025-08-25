@@ -39,9 +39,9 @@
 
 <span style="color: red;">🔗下载地址</span>：[迅雷云盘](https://pan.xunlei.com/s/VOYAwMb4ojr3UbR0T6zCer4wA1?pwd=eq59) | [参考资料](/article/Listary配置参考.md)
 
-### Typora安装/附图床配置配置教程
+### Typora安装/附图床配置教程
 
-<span style="color: red;">🔗下载地址</span>：[迅雷云盘](https://pan.xunlei.com/s/VOYAwMb4ojr3UbR0T6zCer4wA1?pwd=eq59) | [图床配置](/article/Typora图床完整配置教程.md)
+<span style="color: red;">🔗下载地址</span>：[软件下载](https://typoraio.cn/) | [图床配置](/article/Typora图床完整配置教程.md)
 
 ### ﻿Honeyview看图神器，免费无广告！
 
