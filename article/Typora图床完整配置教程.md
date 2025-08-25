@@ -21,10 +21,9 @@ winget install Kuingsmile.PicList
 
 **2. 安装包安装**
 
- 下载安装包后直接运行即可：
- 下载地址：https://pan.xunlei.com/s/VOYWTpfZSMG5PFyL455ke_50A1?pwd=s7j6# 
+ 下载安装包后直接运行即可：[点此下载](https://pan.xunlei.com/s/VOYWTpfZSMG5PFyL455ke_50A1?pwd=s7j6#)
 
-## 安装插件（Gitee 图床支持）
+## 安装插件
 
 PicList 默认没有内置 Gitee 图床，所以需要单独安装插件。打开 PicList，点击左侧 **插件，搜索 `gitee` 并安装。
 
@@ -50,9 +49,9 @@ PicList 默认没有内置 Gitee 图床，所以需要单独安装插件。打�
 
 ![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/image-20250825203600014.webp)
 
-## 参数获取（以 Gitee 为例）
+## 参数获取
 
-1. 打开 [Gitee 官网](https://gitee.com/) 注册并登录账号,点击右上角 **+号 → 新建仓库**,勾选 “设置模板” 与 “选择分支模型”
+1. 打开 [Gitee 官网](https://gitee.com/) 注册并登录账号，点击右上角 **+号 → 新建仓库**，勾选 “设置模板” 与 “选择分支模型”
 
 ![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20250825220835730.webp)
 
@@ -61,6 +60,7 @@ PicList 默认没有内置 Gitee 图床，所以需要单独安装插件。打�
 ![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/rerz.webp)
 
 这样，Typora + PicList + Gitee 的图床方案就配置好了，之后写 Markdown 时插入的图片会自动上传到 Gitee，并返回在线链接，非常省心。
+
 
 
 
