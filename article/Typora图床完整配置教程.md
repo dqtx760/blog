@@ -1,5 +1,4 @@
-# Typora + PicList + Gitee 图床完整配置教程
-
+## Typora + PicList + Gitee 图床完整配置教程
 
 如果你经常写 Markdown 文档，那么 **Typora** 是一款非常好用的编辑器。而在图片管理方面，推荐搭配免费的图床工具 **PicList**，它支持一键上传图片到各类图床。我自己的方案是：**Typora + PicList + Gitee**，写作体验非常流畅。
 
@@ -53,18 +52,17 @@ PicList 默认没有内置 Gitee 图床，所以需要单独安装插件。打�
 
 ## 参数获取（以 Gitee 为例）
 
-打开 [Gitee 官网](https://gitee.com/) 注册并登录账号
+1. 打开 [Gitee 官网](https://gitee.com/) 注册并登录账号,点击右上角 **+号 → 新建仓库**,勾选 “设置模板” 与 “选择分支模型”
 
-点击右上角 **+号 → 新建仓库**
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20250825220835730.webp)
 
-勾选 “设置模板” 与 “选择分支模型”
+2. 之后点击个人头像，点设置-私人令牌，生成新令牌
 
-之后点击个人头像，点设置-私人令牌，生成新令牌
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/rerz.webp)
 
 这样，Typora + PicList + Gitee 的图床方案就配置好了，之后写 Markdown 时插入的图片会自动上传到 Gitee，并返回在线链接，非常省心。
 
-完整教程参考：
-https://blog.csdn.net/2402_82616859/article/details/150784158?spm=1001.2014.3001.5502
+
 
 
 
