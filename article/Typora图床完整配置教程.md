@@ -58,13 +58,14 @@ PicList 默认没有内置 Gitee 图床，所以需要单独安装插件。打�
 
 勾选 “设置模板” 与 “选择分支模型”
 
-![1](/image/Shot.png)
+![5](/image/Shot.png)
 
 之后点击个人头像，点设置-私人令牌，生成新令牌
 
-![1](/image/ShotEas.png)
+![3](/image/ShotEas.png)
 
 这样，Typora + PicList + Gitee 的图床方案就配置好了，之后写 Markdown 时插入的图片会自动上传到 Gitee，并返回在线链接，非常省心。
+
 
 
 
