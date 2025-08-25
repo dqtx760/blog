@@ -23,7 +23,7 @@ winget install Kuingsmile.PicList
 **2. 安装包安装**
 
  下载安装包后直接运行即可：
- 下载地址：
+ 下载地址：https://pan.xunlei.com/s/VOYWTpfZSMG5PFyL455ke_50A1?pwd=s7j6# 
 
 ## 安装插件（Gitee 图床支持）
 
@@ -61,10 +61,10 @@ PicList 默认没有内置 Gitee 图床，所以需要单独安装插件。打�
 
 之后点击个人头像，点设置-私人令牌，生成新令牌
 
-参考图：https://mp.weixin.qq.com/s/hU-KUUOTPW4Cer1sOpZaQA
-
 这样，Typora + PicList + Gitee 的图床方案就配置好了，之后写 Markdown 时插入的图片会自动上传到 Gitee，并返回在线链接，非常省心。
 
+完整教程参考：
+https://blog.csdn.net/2402_82616859/article/details/150784158?spm=1001.2014.3001.5502
 
 
 
