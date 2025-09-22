@@ -33,6 +33,13 @@
 ![1](/image/fmt.gif)
 
 
+### iFlow：cmd终端AI智能助手
+
+https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
+
+### ShareX隐藏的多区域截图技巧
+
+https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
 
 ### 常用cmd/PowerShell命令
 
@@ -87,7 +94,7 @@ https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
 ### 零碎教程汇总
 https://discreet-ringer-ef6.notion.site/Win-1f5351994e4080a29899ec97e76e10a7
 
-## ➡️<b style="color: red;">系统优化</b>
+
 
 ### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
 https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview
