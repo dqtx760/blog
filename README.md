@@ -32,6 +32,42 @@
 
 ![1](/image/fmt.gif)
 
+### GitHub访问/下载加速
+
+> 访问加速工具：[steampp](https://steampp.net/) | [dev-sidecar](https://github.com/docmirror/dev-sidecar)
+>
+> 下载加速工具：[站点1](https://yishijie.gitlab.io/ziyuan/) | [站点2](https://ghproxy.net/) | [站点3](https://doget.nocsdn.com/#/) | [站点4](https://github.akams.cn/) | [站点5](https://gh-proxy.com/)
+>
+> git clone加速：https://xuc.xi-xu.me/
+
+### 3D桌宠软件---Mate-Engine
+
+https://github.com/shinyflvre/Mate-Engine
+
+### B站/油管&视频转Get笔记脚本
+
+https://xodnytdcaw.feishu.cn/wiki/CBdqwazxvivDkJkm4e1cjrG7nth?fromScene=spaceOverview
+
+### Windows 11 25H2 正式版
+
+[微软官网](https://www.microsoft.com/zh-cn/software-download/windows11)  [迅雷网盘](https://pan.xunlei.com/s/VOaYhGKXIZ3N0b128CaJnSsTA1?pwd=634v#)
+
+ **Shift + F10** 打开 CMD 终端，绕过联网命令
+
+```
+start ms-cxh:localonly
+```
+
+### 巨魔商店Trollstore安装教程
+
+https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview
+
+### VMware安装黑苹果macOS15
+
+[附件下载](https://pan.xunlei.com/s/VOaUEwbb7FobphNhKkiRXCzpA1?pwd=tfbx#)  [教程](https://mp.weixin.qq.com/s/xK49ONPSzlR0IsyYtjhKjg)
+
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/image-20251002202853234.webp)
+
 
 ### iFlow：cmd终端AI智能助手
 
@@ -117,14 +153,6 @@ https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOve
 ### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用
 https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
 
-
-### GitHub访问/下载加速
-
-1. 访问加速工具：[steampp](https://steampp.net/) | [dev-sidecar](https://github.com/docmirror/dev-sidecar)
-
-2. 下载加速工具：[站点1](https://yishijie.gitlab.io/ziyuan/) | [站点2](https://ghproxy.net/) | [站点3](https://doget.nocsdn.com/#/) | [站点4](https://github.akams.cn/) | [站点5](https://gh-proxy.com/)
-
-3. git clone加速：https://xuc.xi-xu.me/
 
 ### GitHub零基础入门指南 
 https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
