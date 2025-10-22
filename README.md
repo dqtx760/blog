@@ -25,7 +25,7 @@
 
 ### 常用cmd/PowerShell命令
 
-[CMD命令大全](/article/Listary命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
+[CMD命令大全](article/命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
 
 ### 3D桌宠软件---Mate-Engine
 
