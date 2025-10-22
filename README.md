@@ -23,6 +23,10 @@
 >
 > git clone加速：https://xuc.xi-xu.me/
 
+### 常用cmd/PowerShell命令
+
+[CMD命令大全](/article/Listary命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
+
 ### 3D桌宠软件---Mate-Engine
 
 https://github.com/shinyflvre/Mate-Engine
@@ -40,7 +44,6 @@ https://xodnytdcaw.feishu.cn/wiki/CBdqwazxvivDkJkm4e1cjrG7nth?fromScene=spaceOve
 ```
 start ms-cxh:localonly
 ```
-
 ### 巨魔商店Trollstore安装教程
 
 https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview
@@ -57,10 +60,6 @@ https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
 ### ShareX隐藏的多区域截图技巧
 
 https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
-
-### 常用cmd/PowerShell命令
-
-[CMD命令大全](/article/Listary命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
 
 ### ﻿文件搜索Listary Pro 6.3.0.78 
 
@@ -103,6 +102,9 @@ https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOve
 
 ### 搞定油管4K高清下载，采用yt-dlp构建
 https://github.com/oop7/YTSage
+
+https://github.com/aandrew-me/ytDownloader
+
 https://423down.lanzouo.com/b03fkcmb9e
 
 ### chrome插件合集更新
@@ -110,8 +112,6 @@ https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
 
 ### 零碎教程汇总
 https://discreet-ringer-ef6.notion.site/Win-1f5351994e4080a29899ec97e76e10a7
-
-
 
 ### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
 https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview
@@ -124,16 +124,12 @@ https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOve
 
 ### Windows10美化入门教程 
 https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
-
-### cmd/PowerShell美化工具包 
-https://xodnytdcaw.feishu.cn/wiki/ML9MwFQ1vijfHikBc48cq9dunjc?fromScene=spaceOverview
 ‌⁢‬⁢⁤﻿⁤⁤‌⁣﻿⁡⁢⁢﻿
 ### ‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案
 https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOverview
 ⁢‍﻿⁢‬‍⁡‬‬
 ### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用
 https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
-
 
 ### GitHub零基础入门指南 
 https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
@@ -167,7 +163,6 @@ https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOve
 
 ### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
 https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
-
 
 ### 网盘直链解析
 https://lz.qaiu.top/
