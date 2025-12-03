@@ -13,7 +13,7 @@
 
 如需提供远程技术支持：[<span style="color:red">点此访问</span>](https://www.742112.xyz)
 
-![1](/image/fmt.gif)
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20251203163025723.webp)
 
 ### GitHub访问/下载加速
 
@@ -26,6 +26,10 @@
 ### 常用cmd/PowerShell命令
 
 [CMD命令大全](article/命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
+
+
+### Typora安装&图床配置
+https://www.kdocs.cn/l/coAvmzIKX92E
 
 ### 3D桌宠软件---Mate-Engine
 
