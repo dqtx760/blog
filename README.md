@@ -12,6 +12,7 @@
 <span style="background-color:  cyan;">这个网站，会整理精选我往期视频用到的全部资料与下载链接！</span>
 
 如需提供远程技术支持：[<span style="color:red">点此访问</span>](https://www.742112.xyz)
+🔥活动：[雨云服务器新用户送15天](https://www.rainyun.com/NzYxMDg2_)
 
 ![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20251203163025723.webp)
 
