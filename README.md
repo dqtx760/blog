@@ -28,6 +28,14 @@
 
 [CMD命令大全](article/命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
 
+### [Claude Code安装使用教程](https://mp.weixin.qq.com/s/F4mcYlNeZIaYy4CwBAZA9w)
+
+### 关于软件/配置文件打包自解压文件
+
+> [软件打包自解压方法](/article/软件打包自解压方法.md)  
+>
+>  [配置打包自解压方法](/article/配置打包自解压方法.md)
+
 ### 3D桌宠软件---Mate-Engine
 
 https://github.com/shinyflvre/Mate-Engine
@@ -144,11 +152,17 @@ https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOve
 ### OpenList网盘挂载
 https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview
 
+
+
 ### 闲鱼虚拟自动发货，附闲管家邀请码！
 https://www.kdocs.cn/l/cnNiOhFzqJA8
 
 ### ‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
 https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview
+
+> [Openlist挂载豆包网盘](https://mp.weixin.qq.com/s/hlOJ89PDWpS8QJFDDmMU7g)
+>
+> [openlist添加阿里云盘储存教程](https://mp.weixin.qq.com/s/uXnSJg_4oRRq1ID74-KUIg)
 
 ### 建站：云服务器/域名低价购买渠道
 https://www.kdocs.cn/l/caiKt4XO3TtQ
