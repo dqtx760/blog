@@ -28,10 +28,6 @@
 
 [CMD命令大全](article/命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
 
-
-### Typora安装&图床配置
-https://www.kdocs.cn/l/coAvmzIKX92E
-
 ### 3D桌宠软件---Mate-Engine
 
 https://github.com/shinyflvre/Mate-Engine
@@ -72,7 +68,7 @@ https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
 
 ### Typora安装/附图床配置教程
 
-<span style="color: red;">🔗下载地址</span>：[软件下载](https://typoraio.cn/) | [软件激活](https://xhslink.com/m/3Zzv12JfZaX) | [图床配置](/article/Typora图床完整配置教程.md)
+<span style="color: red;">🔗下载地址</span>：[软件下载](https://typoraio.cn/) | [软件激活](https://xhslink.com/m/3Zzv12JfZaX) | [图床配置](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
 
 ### ﻿Honeyview看图神器，免费无广告！
 
@@ -214,5 +210,4 @@ https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 | HDmoli         | [https://www.hdmoli.pro/](https://www.hdmoli.pro/) |
 | Myflixer       | [https://myflixer.is/home](https://myflixer.is/home) |
 | Auete     | [https://auete.cc/Movie/index.html](https://auete.cc/Movie/index.html) |
-
 
