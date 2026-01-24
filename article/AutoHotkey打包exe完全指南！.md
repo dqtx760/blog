@@ -22,16 +22,19 @@ AutoHotkey 提供了生动的脚本创建界面：
 
 2. 选择“New script”选项（如（图1）所示） 
 
-   ![img](https://i-blog.csdnimg.cn/img_convert/4d0b66c9b6cee3e540f6dd83ca442cda.webp?x-oss-process=image/format,png)
 
-   ![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+![img](https://i-blog.csdnimg.cn/img_convert/4d0b66c9b6cee3e540f6dd83ca442cda.webp?x-oss-process=image/format,png)
 
-3. 在弹出的“新脚本”窗口中：
+
+
+1. 在弹出的“新脚本”窗口中：
 
    - 选择输出目录
    - 输入名称脚本
    - 选择脚本模板（“Empty”或“Minimal for v2”）
    - 点击“创建”或“编辑”按钮开始编辑
+
+
 
 **2.2 脚本编写**
 
@@ -53,19 +56,21 @@ AutoHotkey提供了专门的编译工具：
 
 2. 找到并选择“Compile Open Ahk2Exe - conversion .ahk to .exe”选项（如（图2）所示） 
 
-   ![img](https://i-blog.csdnimg.cn/img_convert/76f8f1d47fe0ae6c47c3761fd8c83c55.webp?x-oss-process=image/format,png)
 
-   ![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20260121210216275.webp)
+
+
 
 3. 这将打开脚本转换为 EXE 的专用界面
+
 
 **3.2 编译设置**
 
 在编译界面中（如（图3）所示），需要完成以下设置： 
 
-![img](https://i-blog.csdnimg.cn/img_convert/00c02e34d0469642308a2fd1b37d4733.webp?x-oss-process=image/format,png)
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20260121210221172.webp)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 1. **选择脚本文件**： 	
    - 点击“浏览”按钮
