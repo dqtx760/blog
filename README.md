@@ -12,56 +12,48 @@
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/dqtx760/blog/issues) 。
 
-> 🔥活动：[雨云服务器新用户送15天](https://www.rainyun.com/NzYxMDg2_)  1对1远程技术支持：[<span style="color:red">点此访问</span>](https://www.742112.xyz) 
+> 🔥活动：[雨云服务器新用户送15天](https://www.rainyun.com/NzYxMDg2_)  
+>
+> 🔥1对1远程技术支持：[<span style="color:red">点此访问</span>](https://www.742112.xyz) 
 
 ![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20251203163025723.webp)
 
-## 2026
+## 2026年
 
 ---
 
 ### 一月
 
-- [零成本！100G 免费图床快速搭建](D:\blog\article\零成本！100G 免费图床快速搭建.md)
-- [AutoHotkey打包exe完全指南！](D:\blog\article\AutoHotkey打包exe完全指南！.md)
+- [零成本搭建在线图床](/article/零成本搭建在线图床.md)
+- [AutoHotkey打包exe完全指南！](/article/AutoHotkey打包exe完全指南！.md)
+- [Claude Code安装使用教程](https://mp.weixin.qq.com/s/F4mcYlNeZIaYy4CwBAZA9w)
+- [软件打包自解压方法](/article/软件打包自解压方法.md)  
+- [配置打包自解压方法](/article/配置打包自解压方法.md)
 
 
 
-## 2025
+## 2025年
 
------
-
-### 
+---
 
 ### 十二月
 
-### GitHub访问/下载加速
+- [GitHub访问下载加速](/article/GitHub访问下载加速.md)
+- [CMD命令大全](article/命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
 
-> 访问加速工具：[steampp](https://steampp.net/) | [dev-sidecar](https://github.com/docmirror/dev-sidecar)
->
-> 下载加速工具：[站点1](https://yishijie.gitlab.io/ziyuan/) | [站点2](https://ghproxy.net/) | [站点3](https://doget.nocsdn.com/#/) | [站点4](https://github.akams.cn/) | [站点5](https://gh-proxy.com/)
->
-> git clone加速：https://xuc.xi-xu.me/
+### 
 
-### 常用cmd/PowerShell命令
 
-[CMD命令大全](article/命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
 
-### [Claude Code安装使用教程](https://mp.weixin.qq.com/s/F4mcYlNeZIaYy4CwBAZA9w)
+### 
 
-### 关于软件/配置文件打包自解压文件
+### 十一月
 
-> [软件打包自解压方法](/article/软件打包自解压方法.md)  
->
->  [配置打包自解压方法](/article/配置打包自解压方法.md)
+- [3D桌宠软件---Mate-Engine](https://github.com/shinyflvre/Mate-Engine)
 
-### 3D桌宠软件---Mate-Engine
+- [B站/油管&视频转Get笔记脚本](https://xodnytdcaw.feishu.cn/wiki/CBdqwazxvivDkJkm4e1cjrG7nth?fromScene=spaceOverview)
 
-https://github.com/shinyflvre/Mate-Engine
 
-### B站/油管&视频转Get笔记脚本
-
-https://xodnytdcaw.feishu.cn/wiki/CBdqwazxvivDkJkm4e1cjrG7nth?fromScene=spaceOverview
 
 ### Windows 11 25H2 正式版
 
