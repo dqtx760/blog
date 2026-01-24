@@ -47,134 +47,79 @@
 
 - [16短视频去水印解析网站](/article/16短视频去水印解析网站.md)
 
-### 巨魔商店Trollstore安装教程
+- [巨魔商店Trollstore安装教程](https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview)
 
-https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview
+- [VMware安装黑苹果macOS15](https://mp.weixin.qq.com/s/xK49ONPSzlR0IsyYtjhKjg)
 
-### VMware安装黑苹果macOS15
-
-[附件下载](https://pan.xunlei.com/s/VOaUEwbb7FobphNhKkiRXCzpA1?pwd=tfbx#)  [教程](https://mp.weixin.qq.com/s/xK49ONPSzlR0IsyYtjhKjg)
+- [iFlow安装使用教程](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
 
 
-### iFlow：cmd终端AI智能助手
+- [ShareX隐藏的多区域截图技巧](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
 
-https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
+### 九月
 
-### ShareX隐藏的多区域截图技巧
+- [文件搜索Listary Pro 6.3.0.78](/article/Listary配置参考.md)
 
-https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
+### 
 
-### ﻿文件搜索Listary Pro 6.3.0.78 
+-  [Typora安装/附图床配置教程](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
 
-<span style="color: red;">🔗下载地址</span>：[迅雷云盘](https://pan.xunlei.com/s/VOYAwMb4ojr3UbR0T6zCer4wA1?pwd=eq59) | [参考资料](/article/Listary配置参考.md)
+### 
 
-### Typora安装/附图床配置教程
+-  [Honeyview看图神器，免费无广告！](https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g)
 
-<span style="color: red;">🔗下载地址</span>：[软件下载](https://typoraio.cn/) | [软件激活](https://xhslink.com/m/3Zzv12JfZaX) | [图床配置](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
+### 
 
-### ﻿Honeyview看图神器，免费无广告！
+-  [Potplayer安装与设置教程](https://www.kdocs.cn/l/clmJIYpDA4mH)
 
-<span style="color: red;">🔗下载地址</span>: [官网下载](https://cn.bandisoft.com/bandiview/dl.php?web) | [参考资料](https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g)
+### 
 
-### ﻿Potplayer安装与设置教程
+-  [Office 2024安装与激活](https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw)
 
-<span style="color: red;">🔗下载地址</span>: [官网¹](https://potplayer.tv/) | [官网²](https://potplayer.daum.net/) | [迅雷云盘](https://pan.xunlei.com/s/VORL6x7rQcl9wnEAeUVjWOgHA1?pwd=4ffc#) | [参考资料](https://www.kdocs.cn/l/clmJIYpDA4mH)
+- [‌‌PS2025安装教程](https://www.kdocs.cn/l/camYZ7UK6kgi)
 
-### ﻿Office 2024安装与激活
+### 八月
 
-<span style="color: red;">🔗下载地址</span>：[mocreak](https://www.mocreak.com/download.html) | [Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) | [参考资料](https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw)
+- [Adobe Acrobat DC 2025安装](https://www.kdocs.cn/l/ci7NRMCDf6Cf)
 
-### ﻿‌‌PS2025安装教程
-https://www.kdocs.cn/l/camYZ7UK6kgi
+- [yt-dlp命令行下载视频指南](https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview)
 
-### ﻿Adobe Acrobat DC 2025安装
-https://www.kdocs.cn/l/ci7NRMCDf6Cf
+-  [‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用](https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview%E2%80%8C%E2%81%A3%E2%80%AC%E2%81%A3%E2%81%A3)
 
-### yt-dlp命令行下载视频指南
-https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOverview
+- [搞定微信视频号下载](https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview)
 
-### ‍‬⁢‍⁡⁡‍⁤‍⁣⁣⁢⁡⁡⁢⁤‌⁤⁢⁡‬﻿⁢⁤⁤‍‌‬‌⁢﻿⁡⁤⁢⁡‬‍‌⁣﻿⁣‍⁣‬IDM安装与激活使用
+- [chrome插件合集更新](https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a)
 
-‌⁣‬⁣⁣﻿<span style="color: red;">🔗下载链接</span>：‬⁡[官网下载](https://mirror2.internetdownloadmanager.com/idman642build36.exe) | [激活工具](https://pan.xunlei.com/s/VOY7D0CnkcoBobh3Az0dqEOPA1?pwd=z5be#) | [参考资料](https://xodnytdcaw.feishu.cn/wiki/MxWiwXxaMi1tBak1qCvcUfT7nUd?fromScene=spaceOverview%E2%80%8C%E2%81%A3%E2%80%AC%E2%81%A3%E2%81%A3)
+### 七月
 
-### 搞定微信视频号下载
+- [零碎教程汇总](https://discreet-ringer-ef6.notion.site/Win-1f5351994e4080a29899ec97e76e10a7)
+- [‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程](https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview) 
+- [U盘重装系统保姆级教程](https://www.kdocs.cn/l/cjvZ1YqoN4Kr)
+- [Windows优化常见工具包](https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOverview)
+- [Windows10美化入门教程 ](https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview)
+- [‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案](https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOverview)
+- [电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用](https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview)
 
-<span style="color: red;">🔗下载链接</span>：(EP25811)
+- [GitHub零基础入门指南](https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview) 
 
-[开源地址](https://github.com/ltaoo/wx_channels_download) | [迅雷云盘](https://pan.xunlei.com/s/VOXNsSH2yrt68jPfe3ry7ZDKA1?pwd=jn8b#) | [参考资料](https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview)
+- [‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vercel+Docsify上线静态博客](https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview)
 
-### 搞定油管4K高清下载，采用yt-dlp构建
+- [GitHub+Vercel零成本搭建网站！](https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview)
+- [OpenList网盘挂载](https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview)
 
-https://vidbee.org/
+### 六月
 
-https://github.com/oop7/YTSage
+- [闲鱼虚拟自动发货，附闲管家邀请码！](https://www.kdocs.cn/l/cnNiOhFzqJA8)
+- [‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit](https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview) 
 
-https://github.com/aandrew-me/ytDownloader
+- [建站：云服务器/域名低价购买渠道](https://www.kdocs.cn/l/caiKt4XO3TtQ)
+- [⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名](https://xodnytdcaw.feishu.cn/wiki/IN4IwCar0iUKEfkeXOGczgPznRd?fromScene=spaceOverview) 
+- [‌‬‌‬‌⁡﻿⁣﻿﻿﻿‍‬⁢‍⁢⁤﻿‬⁢⁤⁢‍‬‍‬⁡⁤⁤‍⁢⁢⁢‬⁢‬⁤‌⁤﻿﻿‌⁤‬‌Rustdesk客户端编译](https://xodnytdcaw.feishu.cn/wiki/Vrcow8yKgi2D9jk3EyucOnnBnDh?fromScene=spaceOverview) 
+- [‍‬‬‬‍‌⁣⁢⁡⁣‍⁢⁣﻿﻿‍⁣‌﻿⁡⁣⁤⁣‍⁡﻿⁡⁣‍⁣‬‬‍‍⁡‬‌﻿⁢⁤⁤⁢⁡﻿‬Rust desk搭建中继服务器](https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOverview) 
+- [‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器](https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview) 
 
-https://423down.lanzouo.com/b03fkcmb9e
-
-### chrome插件合集更新
-https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
-
-### 零碎教程汇总
-https://discreet-ringer-ef6.notion.site/Win-1f5351994e4080a29899ec97e76e10a7
-
-### ‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程 
-https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview
-
-### U盘重装系统保姆级教程
-https://www.kdocs.cn/l/cjvZ1YqoN4Kr
-
-### Windows优化常见工具包
-https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOverview
-
-### Windows10美化入门教程 
-https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview
-‌⁢‬⁢⁤﻿⁤⁤‌⁣﻿⁡⁢⁢﻿
-### ‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案
-https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOverview
-⁢‍﻿⁢‬‍⁡‬‬
-### 电脑验机‌⁣⁤⁤⁤‌‌⁡⁡‍⁢⁢﻿‍‬⁤‍‌‬⁤‬⁤⁢‌﻿⁤⁤⁣⁤‍⁡﻿⁡﻿⁢⁡⁢⁡⁡⁤⁢⁣⁣⁡图吧工具箱使用
-https://xodnytdcaw.feishu.cn/wiki/GSKgwxSDQixVLykf4RNccDTlnyd?fromScene=spaceOverview
-
-### GitHub零基础入门指南 
-https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview
-
-### ﻿‌‌‌⁡⁢‍⁣﻿⁣⁡‌‬‬⁣⁣⁣‌⁣‌‬⁣⁡‌‌⁢⁢⁣‬‍‌‬⁤⁡﻿Vercel+Docsify上线静态博客
-https://xodnytdcaw.feishu.cn/wiki/V1jLwUwyLiCAr1kYgTNc79Irneb?fromScene=spaceOverview
-
-### GitHub+Vercel零成本搭建网站！
-https://xodnytdcaw.feishu.cn/wiki/Tx11wtTvfiUffMkY6Oxcv2l2nhc?fromScene=spaceOverview
-
-### OpenList网盘挂载
-https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview
-
-
-
-### 闲鱼虚拟自动发货，附闲管家邀请码！
-https://www.kdocs.cn/l/cnNiOhFzqJA8
-
-### ‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit 
-https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview
-
-> [Openlist挂载豆包网盘](https://mp.weixin.qq.com/s/hlOJ89PDWpS8QJFDDmMU7g)
->
-> [openlist添加阿里云盘储存教程](https://mp.weixin.qq.com/s/uXnSJg_4oRRq1ID74-KUIg)
-
-### 建站：云服务器/域名低价购买渠道
-https://www.kdocs.cn/l/caiKt4XO3TtQ
-
-### ⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名 
-https://xodnytdcaw.feishu.cn/wiki/IN4IwCar0iUKEfkeXOGczgPznRd?fromScene=spaceOverview
-
-### ‌‬‌‬‌⁡﻿⁣﻿﻿﻿‍‬⁢‍⁢⁤﻿‬⁢⁤⁢‍‬‍‬⁡⁤⁤‍⁢⁢⁢‬⁢‬⁤‌⁤﻿﻿‌⁤‬‌Rustdesk客户端编译 
-https://xodnytdcaw.feishu.cn/wiki/Vrcow8yKgi2D9jk3EyucOnnBnDh?fromScene=spaceOverview
-
-### ‍‬‬‬‍‌⁣⁢⁡⁣‍⁢⁣﻿﻿‍⁣‌﻿⁡⁣⁤⁣‍⁡﻿⁡⁣‍⁣‬‬‍‍⁡‬‌﻿⁢⁤⁤⁢⁡﻿‬Rust desk搭建中继服务器 
-https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOverview
-
-### ‌⁣‌﻿⁡‌‬⁡﻿‍⁤‍‬‬‌‌⁤‬‌⁢﻿‌﻿⁡⁢﻿‬⁢‌⁢‬⁣‍‍⁡‌⁡﻿‍﻿旧电脑搭建NAS服务器 
-https://xodnytdcaw.feishu.cn/wiki/EWo4wdgzti0k3ekmnJBcb1E7nTf?fromScene=spaceOverview
+- [Openlist挂载豆包网盘](https://mp.weixin.qq.com/s/hlOJ89PDWpS8QJFDDmMU7g)
+- [openlist添加阿里云盘储存教程](https://mp.weixin.qq.com/s/uXnSJg_4oRRq1ID74-KUIg)
 
 ### 网盘直链解析
 https://lz.qaiu.top/
