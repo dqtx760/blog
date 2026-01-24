@@ -60,19 +60,11 @@
 
 - [文件搜索Listary Pro 6.3.0.78](/article/Listary配置参考.md)
 
-### 
-
 -  [Typora安装/附图床配置教程](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
-
-### 
 
 -  [Honeyview看图神器，免费无广告！](https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g)
 
-### 
-
 -  [Potplayer安装与设置教程](https://www.kdocs.cn/l/clmJIYpDA4mH)
-
-### 
 
 -  [Office 2024安装与激活](https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw)
 
