@@ -1,14 +1,5 @@
  ## **大强附件表**
 
-
-
-
-[![飞书文档](https://img.shields.io/badge/知识库-软件教程-00A1E9?logo=feishu)](https://xodnytdcaw.feishu.cn/wiki/BtjSwIjMuiISo7kNFiQcMMXcnKc)
-[![CSDN](https://img.shields.io/badge/CSDN-大强同学-FF4D4D?logo=c)](https://blog.csdn.net/2402_82616859?type=blog)
-[![Twitter](https://img.shields.io/badge/Twitter-大强同学-1DA1F2?logo=twitter)](https://twitter.com/dqtx760)
-[![YouTube](https://img.shields.io/badge/YouTube-大强同学-FF0000?logo=youtube)](https://www.youtube.com/@dqtx760/videos)
-[![GitHub](https://img.shields.io/badge/GitHub-大强同学-181717?logo=github)](https://github.com/dqtx760/blog/edit/main/README.md)
-
 <span style="background-color:  cyan;">这个网站，会整理精选我往期视频用到的全部资料与下载链接！</span>
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/dqtx760/blog/issues) 。
@@ -190,7 +181,11 @@ https://lz.qaiu.top/
 
 https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 
-
+[![飞书文档](https://img.shields.io/badge/知识库-软件教程-00A1E9?logo=feishu)](https://xodnytdcaw.feishu.cn/wiki/BtjSwIjMuiISo7kNFiQcMMXcnKc)
+[![CSDN](https://img.shields.io/badge/CSDN-大强同学-FF4D4D?logo=c)](https://blog.csdn.net/2402_82616859?type=blog)
+[![Twitter](https://img.shields.io/badge/Twitter-大强同学-1DA1F2?logo=twitter)](https://twitter.com/dqtx760)
+[![YouTube](https://img.shields.io/badge/YouTube-大强同学-FF0000?logo=youtube)](https://www.youtube.com/@dqtx760/videos)
+[![GitHub](https://img.shields.io/badge/GitHub-大强同学-181717?logo=github)](https://github.com/dqtx760/blog/edit/main/README.md)
 
 
 
