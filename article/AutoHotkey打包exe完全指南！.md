@@ -23,7 +23,7 @@ AutoHotkey 提供了生动的脚本创建界面：
 2. 选择“New script”选项（如（图1）所示） 
 
 
-![img](https://i-blog.csdnimg.cn/img_convert/4d0b66c9b6cee3e540f6dd83ca442cda.webp?x-oss-process=image/format,png)
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20260121211236120.webp)
 
 
 
