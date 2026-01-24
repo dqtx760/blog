@@ -4,9 +4,8 @@
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/dqtx760/blog/issues) 。
 
-> 🔥活动：[雨云服务器新用户送15天](https://www.rainyun.com/NzYxMDg2_)  
+> P.S.最新活动[雨云新用户送15天](https://www.rainyun.com/NzYxMDg2_)  [智谱BigModel API立减10%](https://www.bigmodel.cn/glm-coding?ic=PUCQNADSPM)  [仙宫云](https://mp.weixin.qq.com/s/pRn7xSJA_kVaO3qXfQNCag)   [HeroSMS接码](https://hero-sms.com/?ref=497256) [闲管家85折优惠](https://kdocs.cn/l/cnNiOhFzqJA8) [Windows正版软件促销活动](https://lizhi.shop/category/windows?cid=wbm93g4b)
 >
-> 🔥1对1远程技术支持：[<span style="color:red">点此访问</span>](https://www.742112.xyz) 
 
 ![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20251203163025723.webp)
 
