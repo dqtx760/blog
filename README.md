@@ -39,6 +39,7 @@
 
 - [GitHub访问下载加速](/article/GitHub访问下载加速.md)
 - [CMD命令大全](article/命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
+- [Windows1125H2](/article/Windows1125H2.md)
 
 
 ### 十一月
@@ -55,15 +56,6 @@
 
 - [16短视频去水印解析网站](/article/16短视频去水印解析网站.md)
 
-### Windows 11 25H2 正式版
-
-[微软官网](https://www.microsoft.com/zh-cn/software-download/windows11)  [迅雷网盘](https://pan.xunlei.com/s/VOaYhGKXIZ3N0b128CaJnSsTA1?pwd=634v#)
-
- **Shift + F10** 打开 CMD 终端，绕过联网命令
-
-```
-start ms-cxh:localonly
-```
 ### 巨魔商店Trollstore安装教程
 
 https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview
