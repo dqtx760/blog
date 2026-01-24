@@ -4,9 +4,7 @@
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/dqtx760/blog/issues) 。
 
-> P.S.最新活动[雨云新用户送15天](https://www.rainyun.com/NzYxMDg2_)  [智谱BigModel API立减10%](https://www.bigmodel.cn/glm-coding?ic=PUCQNADSPM)  [仙宫云](https://mp.weixin.qq.com/s/pRn7xSJA_kVaO3qXfQNCag)   [HeroSMS接码](https://hero-sms.com/?ref=497256) [闲管家85折优惠](https://kdocs.cn/l/cnNiOhFzqJA8) [Windows正版软件促销活动](https://lizhi.shop/category/windows?cid=wbm93g4b)
->
-
+> P.S.最新活动- <span style="color: red;">[雨云新用户送15天](https://www.rainyun.com/NzYxMDg2_)</span>  <span style="color: red;">[智谱BigModel API立减10%](https://www.bigmodel.cn/glm-coding?ic=PUCQNADSPM)</span>  <span style="color: red;">[闲管家85折优惠](https://kdocs.cn/l/cnNiOhFzqJA8)</span>   <span style="color: red;">[Windows正版软件促销活动](https://lizhi.shop/category/windows?cid=wbm93g4b)</span>  <span style="color: red;">[仙宫云](https://mp.weixin.qq.com/s/pRn7xSJA_kVaO3qXfQNCag)</span>  <span style="color: red;">[HeroSMS接码](https://hero-sms.com/?ref=497256)</span>
 ![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20251203163025723.webp)
 
 ## 2026年
