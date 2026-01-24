@@ -24,7 +24,8 @@
 - 2026/01/13：[Obsidian+AI](/article/Obsidian+AI.md)  
 - 2026/01/13：[Passkeys通行密钥](/article/Passkeys通行密钥.md)  
 - 2026/01/06：[Claude Code安装使用教程](/article/ClaudeCode安装使用教程.md)
-- 2026/01/06：[屏蔽IOS系统更新通知教程](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
+
+
 
 ## 2025年
 
@@ -36,37 +37,31 @@
 
 ### 十一月
 
-2025/11/30：[MuMu模拟器去广告](https://mp.weixin.qq.com/s/qQCIYb8K_xybStgAbLjtaQ)
+- 2025/11/30：[MuMu模拟器去广告](https://mp.weixin.qq.com/s/qQCIYb8K_xybStgAbLjtaQ)
 
-2025/11/25：[VMware安装黑苹果macOS15](https://mp.weixin.qq.com/s/xK49ONPSzlR0IsyYtjhKjg)
+- 2025/11/25：[VMware安装黑苹果macOS15](https://mp.weixin.qq.com/s/xK49ONPSzlR0IsyYtjhKjg)
 
-2025/11/22：[5款Chrome效率插件](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
+- 2025/11/22：[5款Chrome效率插件](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
+- 2025/11/18：[Windows1125H2](/article/Windows1125H2.md)
 
-2025/11/18：[Windows1125H2](/article/Windows1125H2.md)
+- 2025/11/16：[Openlist挂载豆包网盘](https://mp.weixin.qq.com/s/hlOJ89PDWpS8QJFDDmMU7g)
 
-2025/11/16：[Openlist挂载豆包网盘](https://mp.weixin.qq.com/s/hlOJ89PDWpS8QJFDDmMU7g)
+- 2025/11/16：[openlist添加阿里云盘储存教程](https://mp.weixin.qq.com/s/uXnSJg_4oRRq1ID74-KUIg)
 
-2025/11/16：[openlist添加阿里云盘储存教程](https://mp.weixin.qq.com/s/uXnSJg_4oRRq1ID74-KUIg)
+- 2025/11/12：[iFlow安装使用教程](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
 
-2025/11/12：[iFlow安装使用教程](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
-
-2025/11/05：[ShareX隐藏的多区域截图技巧](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
+- 2025/11/05：[ShareX隐藏的多区域截图技巧](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
 
 ### 九月
 
-2025/09/24：[巨魔商店Trollstore安装教程](https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview)
-
-2025/09/24：[文件搜索Listary Pro 6.3.0.78](/article/Listary配置参考.md)
-
-2025/09/24：[Typora安装/附图床配置教程](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
-
-2025/09/24：[Honeyview看图神器，免费无广告！](https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g)
-
-2025/09/24：[Potplayer安装与设置教程](https://www.kdocs.cn/l/clmJIYpDA4mH)
-
-2025/09/24：[Office 2024安装与激活](https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw)
-
-2025/09/24：[‌‌PS2025安装教程](https://www.kdocs.cn/l/camYZ7UK6kgi)
+- 2025/09/24：[巨魔商店Trollstore安装教程](https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview)
+- 2025/09/22：[屏蔽IOS系统更新通知教程](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
+- 2025/09/20：[文件搜索Listary Pro 6.3.0.78](/article/Listary配置参考.md)
+- 2025/09/18：[Typora安装/附图床配置教程](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
+- 2025/09/13：[Honeyview看图神器，免费无广告！](https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g)
+- 2025/09/08：[Potplayer安装与设置教程](https://www.kdocs.cn/l/clmJIYpDA4mH)
+- 2025/09/04：[Office 2024安装与激活](https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw)
+- 2025/09/01：[‌‌PS2025安装教程](https://www.kdocs.cn/l/camYZ7UK6kgi)
 
 
 
@@ -99,7 +94,6 @@
 ### 六月
 
 - [GitHub零基础入门指南](https://xodnytdcaw.feishu.cn/wiki/NyyLwXnDuiBHAakvCiLcOzdpn4i?fromScene=spaceOverview) 
-
 - [‌⁡‍‌﻿⁤⁣⁣⁣⁤⁣‬⁢⁣‬‬‌‍‍⁤⁢‍﻿⁤‌﻿⁢⁣⁡‌‌﻿免费docker容器部署openlsit](https://xodnytdcaw.feishu.cn/wiki/DFvYweDobiiN6GkHfvNcWkjenyf?fromScene=spaceOverview) 
 - [建站：云服务器/域名低价购买渠道](https://www.kdocs.cn/l/caiKt4XO3TtQ)
 - [⁡⁡‬﻿‌⁣‬‌﻿‌‬⁢‌‌‍⁡⁡﻿⁡‌‌﻿⁣‬⁢⁤‍⁤⁢‬⁣⁤﻿⁡⁢‌‍⁢⁡⁤3分钟搞定 Notion 自定义域名](https://xodnytdcaw.feishu.cn/wiki/IN4IwCar0iUKEfkeXOGczgPznRd?fromScene=spaceOverview) 
@@ -109,20 +103,17 @@
 - [‌‬‌‬‌⁡﻿⁣﻿﻿﻿‍‬⁢‍⁢⁤﻿‬⁢⁤⁢‍‬‍‬⁡⁤⁤‍⁢⁢⁢‬⁢‬⁤‌⁤﻿﻿‌⁤‬‌Rustdesk客户端编译](https://xodnytdcaw.feishu.cn/wiki/Vrcow8yKgi2D9jk3EyucOnnBnDh?fromScene=spaceOverview) 
 - [‍‬‬‬‍‌⁣⁢⁡⁣‍⁢⁣﻿﻿‍⁣‌﻿⁡⁣⁤⁣‍⁡﻿⁡⁣‍⁣‬‬‍‍⁡‬‌﻿⁢⁤⁤⁢⁡﻿‬Rust desk搭建中继服务器](https://xodnytdcaw.feishu.cn/wiki/PgLAwWi4niH7wwk8coKciSYTnfd?fromScene=spaceOverview) 
 
+
+
+### 五月
+
 - [闲鱼虚拟自动发货，附闲管家邀请码！](https://www.kdocs.cn/l/cnNiOhFzqJA8)
-
-- [CMD命令大全](article/命令大全.md)  
-
 - [3D桌宠软件---Mate-Engine](https://www.bilibili.com/video/BV15sxkztED5/?spm_id_from=333.1387.upload.video_card.click)
-
 - [B站/油管&视频转Get笔记脚本](https://xodnytdcaw.feishu.cn/wiki/CBdqwazxvivDkJkm4e1cjrG7nth?fromScene=spaceOverview)
-
 - [Adobe Acrobat DC 2025安装](https://www.kdocs.cn/l/ci7NRMCDf6Cf)
 - [chrome插件合集更新](https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a)
-
+- [CMD命令大全](article/命令大全.md)  
 - [零碎教程汇总](https://discreet-ringer-ef6.notion.site/Win-1f5351994e4080a29899ec97e76e10a7)
-
-  
 
 [![飞书文档](https://img.shields.io/badge/知识库-软件教程-00A1E9?logo=feishu)](https://xodnytdcaw.feishu.cn/wiki/BtjSwIjMuiISo7kNFiQcMMXcnKc)
 [![CSDN](https://img.shields.io/badge/CSDN-大强同学-FF4D4D?logo=c)](https://blog.csdn.net/2402_82616859?type=blog)
