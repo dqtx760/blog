@@ -8,13 +8,32 @@
 [![YouTube](https://img.shields.io/badge/YouTube-大强同学-FF0000?logo=youtube)](https://www.youtube.com/@dqtx760/videos)
 [![GitHub](https://img.shields.io/badge/GitHub-大强同学-181717?logo=github)](https://github.com/dqtx760/blog/edit/main/README.md)
 
-
 <span style="background-color:  cyan;">这个网站，会整理精选我往期视频用到的全部资料与下载链接！</span>
 
-如需提供远程技术支持：[<span style="color:red">点此访问</span>](https://www.742112.xyz)
-🔥活动：[雨云服务器新用户送15天](https://www.rainyun.com/NzYxMDg2_)
+欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/dqtx760/blog/issues) 。
+
+> 🔥活动：[雨云服务器新用户送15天](https://www.rainyun.com/NzYxMDg2_)  1对1远程技术支持：[<span style="color:red">点此访问</span>](https://www.742112.xyz) 
 
 ![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20251203163025723.webp)
+
+## 2026
+
+---
+
+### 一月
+
+- [零成本！100G 免费图床快速搭建](D:\blog\article\零成本！100G 免费图床快速搭建.md)
+- [AutoHotkey打包exe完全指南！](D:\blog\article\AutoHotkey打包exe完全指南！.md)
+
+
+
+## 2025
+
+-----
+
+### 
+
+### 十二月
 
 ### GitHub访问/下载加速
 
@@ -110,6 +129,9 @@ https://xodnytdcaw.feishu.cn/wiki/YA9pwqXssisodUkUle3c5QEtn0f?fromScene=spaceOve
 [开源地址](https://github.com/ltaoo/wx_channels_download) | [迅雷云盘](https://pan.xunlei.com/s/VOXNsSH2yrt68jPfe3ry7ZDKA1?pwd=jn8b#) | [参考资料](https://xodnytdcaw.feishu.cn/wiki/MHVuwCNyXi4tKLkP8KVchqrHnJh?fromScene=spaceOverview)
 
 ### 搞定油管4K高清下载，采用yt-dlp构建
+
+https://vidbee.org/
+
 https://github.com/oop7/YTSage
 
 https://github.com/aandrew-me/ytDownloader
