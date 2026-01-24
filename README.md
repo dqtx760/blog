@@ -14,22 +14,17 @@
 
 ### 一月
 
-| 日期       | 文章内容                                                     |
-| ---------- | ------------------------------------------------------------ |
-| 2026/01/22 | [零成本！100G 免费图床搭建，小白 10 分钟搞定](/article/零成本搭建在线图床.md) |
-| 2026/01/21 | [AutoHotkey打包exe完全指南！](/article/AutoHotkey打包exe完全指南！.md) |
-| 2026/01/18 | [MakeSFX：配置打包自解压方法](/article/配置打包自解压方法.md) |
-| 2026/01/18 | [FormCeo：软件打包自解压方法](/article/软件打包自解压方法.md) |
-| 2026/01/18 | [OBS摄像头一键移动插件](/article/OBS摄像头一键移动插件.md)   |
-| 2026/01/16 | [md2wechat-skill安装教程](/article/md2wechat-skill安装教程.md) |
-| 2026/01/15 | [API 封装成 Skill 的最佳实践](/article/API封装成Skill最佳实践.md) |
-| 2026/01/14 | [7个优质精选Claude Skills](/article/7个优质精选ClaudeSkills.md) |
-| 2026/01/13 | [Obsidian+AI](/article/Obsidian+AI.md)                       |
-| 2026/01/13 | [Passkeys通行密钥](/article/Passkeys通行密钥.md)             |
-| 2026/01/06 | [Claude Code安装使用教程](/article/ClaudeCode安装使用教程.md) |
-
-
-
+- 2026/01/22：[零成本！100G 免费图床搭建，小白 10 分钟搞定](/article/零成本搭建在线图床.md)  
+- 2026/01/21：[AutoHotkey打包exe完全指南！](/article/AutoHotkey打包exe完全指南！.md)  
+- 2026/01/18：[MakeSFX：配置打包自解压方法](/article/配置打包自解压方法.md)  
+- 2026/01/18：[FormCeo：软件打包自解压方法](/article/软件打包自解压方法.md)  
+- 2026/01/18：[OBS摄像头一键移动插件](/article/OBS摄像头一键移动插件.md)  
+- 2026/01/16：[md2wechat-skill安装教程](/article/md2wechat-skill安装教程.md)  
+- 2026/01/15：[API 封装成 Skill 的最佳实践](/article/API封装成Skill最佳实践.md)  
+- 2026/01/14：[7个优质精选Claude Skills](/article/7个优质精选ClaudeSkills.md)  
+- 2026/01/13：[Obsidian+AI](/article/Obsidian+AI.md)  
+- 2026/01/13：[Passkeys通行密钥](/article/Passkeys通行密钥.md)  
+- 2026/01/06：[Claude Code安装使用教程](/article/ClaudeCode安装使用教程.md)
 
 ## 2025年
 
