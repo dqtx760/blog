@@ -1,4 +1,5 @@
-## **大强附件表**
+- [ ] ## **大强附件表**
+
 
 ----
 
@@ -30,8 +31,6 @@
 - [软件打包自解压方法](/article/软件打包自解压方法.md)  
 - [配置打包自解压方法](/article/配置打包自解压方法.md)
 
-
-
 ## 2025年
 
 ---
@@ -42,14 +41,19 @@
 - [CMD命令大全](article/命令大全.md)  [快捷键备忘录](https://hotkeycheatsheet.com/zh) 
 
 
-
 ### 十一月
 
 - [3D桌宠软件---Mate-Engine](https://github.com/shinyflvre/Mate-Engine)
 
 - [B站/油管&视频转Get笔记脚本](https://xodnytdcaw.feishu.cn/wiki/CBdqwazxvivDkJkm4e1cjrG7nth?fromScene=spaceOverview)
 
+### 十月
 
+- [9个壁纸下载网站](/article/9个壁纸下载网站.md)
+
+- [13个在线观影网站](/article/13个在线观影网站.md)
+
+- [16短视频去水印解析网站](/article/16短视频去水印解析网站.md)
 
 ### Windows 11 25H2 正式版
 
@@ -194,44 +198,9 @@ https://lz.qaiu.top/
 
 https://ruseo.cn/Blue-Cloud-Direct-Chain-Analysis/
 
-### 9个壁纸下载网站
 
-| [哲风壁纸](https://haowallpaper.com/) | [拾光壁纸](https://netbian.timeline.ink/home) | [致美化](https://zhutix.com/wallpaper/) |
-|:-----------------|:-----------------|:-----------------|  
-| [暖糖壁纸](https://www.nuantang.net/) | [极简壁纸](https://bz.zzzmh.cn/index?time=5e4rrofz21) | [轻壁纸](https://qingbizhi.com/) |  
-| [4kwallpapers](https://4kwallpapers.com/) | [wallspic](https://wallspic.com/cn) | [alphacoders](https://alphacoders.com/newest-8k-wallpapers) |  
 
-### 16短视频去水印解析网站
 
-| 平台       | 网站描述                                  | 🔗地址                                                               |
-|------------|----------------------------------------------|---------------------------------------------------------------------|
-| 多平台  | cobalt.tools                                | [https://cobalt.tools/](https://cobalt.tools/)                     |
-|            | QQ-YY 解析                                  | [https://jx.qq-yy.cn/](https://jx.qq-yy.cn/)                       |
-|            | BestVideoW                                  | [https://www.bestvideow.com/](https://www.bestvideow.com/)         |
-|            | PicSeed                                     | [https://picseed.com/](https://picseed.com/)                       |
-|            | DLPanda                           | [https://dlpanda.com/zh-CN](https://dlpanda.com/zh-CN)             |
-|            | TubeDown                                    | [https://tubedown.cn/](https://tubedown.cn/)                       |
-|            | GreenVideo                  | [https://greenvideo.cc/bilibili](https://greenvideo.cc/bilibili)   |
-| B站  | ToolsGitHub                      | [https://toolskithub.com/zh-CN/bilibili-download](https://toolskithub.com/zh-CN/bilibili-download) |
-|            | GreenVideo                     | [https://greenvideo.cc/bilibili](https://greenvideo.cc/bilibili)   |
-| 油管 | SaveFrom                                   | [https://savefrom.bz/](https://savefrom.bz/)                       |
-|            | Y2Mate                       | [https://en.y2mate.is/tGyS/](https://en.y2mate.is/tGyS/)           |
-| 推特   | TwDown                     | [https://twdown.net/index.php](https://twdown.net/index.php)       |
-|            | Twitter Video Downloader                   | [https://twittervideodownloader.com/](https://twittervideodownloader.com/) |
-|            | PicSeed                         | [https://picseed.com/](https://picseed.com/)                       |
-| Tk | SavetikPro                   | [https://savetikpro.com/zh-cn](https://savetikpro.com/zh-cn)       |
-| 微博   | 微博去水印工具                             | [https://dy.kukutool.com/weibo](https://dy.kukutool.com/weibo)     |
 
-### 13个在线观影网站
 
-| 网站名称       | 🔗地址                                                                 |
-|----------------|---------------------------------------------------------------------|
-| 袋鼠影视       | [https://dsdytv.com/frim/index1.html](https://dsdytv.com/frim/index1.html) |
-| 低端影视       | [https://ddys.pro/](https://ddys.pro/) |
-| 农民影视     | https://www.lyjiguangqiege.com/ |
-| 5点电影        | https://www.5.movie/vodtype/20.html |
-| Vidhub   | [https://vidhub4.cc/vodtype/1.html](https://vidhub4.cc/vodtype/1.html) |
-| HDmoli         | [https://www.hdmoli.pro/](https://www.hdmoli.pro/) |
-| Myflixer       | [https://myflixer.is/home](https://myflixer.is/home) |
-| Auete     | [https://auete.cc/Movie/index.html](https://auete.cc/Movie/index.html) |
 
