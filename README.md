@@ -24,8 +24,7 @@
 - 2026/01/13：[Obsidian+AI](/article/Obsidian+AI.md)  
 - 2026/01/13：[Passkeys通行密钥](/article/Passkeys通行密钥.md)  
 - 2026/01/06：[Claude Code安装使用教程](/article/ClaudeCode安装使用教程.md)
-
-
+- 2026/01/06：[屏蔽IOS系统更新通知教程](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
 
 ## 2025年
 
@@ -44,20 +43,21 @@
 - 2025/11/16：[Openlist挂载豆包网盘](https://mp.weixin.qq.com/s/hlOJ89PDWpS8QJFDDmMU7g)
 - 2025/11/16：[openlist添加阿里云盘储存教程](https://mp.weixin.qq.com/s/uXnSJg_4oRRq1ID74-KUIg)
 - 2025/11/12：[iFlow安装使用教程](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
-- 2025/11/05：[ShareX隐藏的多区域截图技巧](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
+
+
 
 ### 九月
 
-- 2025/09/24：[巨魔商店Trollstore安装教程](https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview)
-- 2025/09/22：[屏蔽IOS系统更新通知教程](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
-- 2025/09/20：[文件搜索Listary Pro 6.3.0.78](/article/Listary配置参考.md)
-- 2025/09/18：[Typora安装/附图床配置教程](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
-- 2025/09/13：[Honeyview看图神器，免费无广告！](https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g)
-- 2025/09/08：[Potplayer安装与设置教程](https://www.kdocs.cn/l/clmJIYpDA4mH)
-- 2025/09/04：[Office 2024安装与激活](https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw)
-- 2025/09/01：[‌‌PS2025安装教程](https://www.kdocs.cn/l/camYZ7UK6kgi)
+- 2025/09/28：[Typora安装/附图床配置教程](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
+- 2025/09/26：[ShareX隐藏的多区域截图技巧](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
+- 2025/09/22：[文件搜索Listary Pro 6.3.0.78](/article/Listary配置参考.md)
+- 2025/09/18：[Potplayer安装与设置教程](https://www.kdocs.cn/l/clmJIYpDA4mH)
+- 2025/09/14：[Office 2024安装与激活](https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw)
+- 2025/09/11：[PS2025安装教程](https://www.kdocs.cn/l/camYZ7UK6kgi)
+- 2025/09/03：[Honeyview看图神器，免费无广告！](https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g)
+- 2025/09/02：[巨魔商店Trollstore安装教程](https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview)
 
-
+- 2025/09/01：[屏蔽IOS系统更新通知教程](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
 
 ### 八月
 
@@ -75,7 +75,7 @@
 ### 七月
 
 - [‍‌⁢⁡⁣⁤⁤⁤‬⁤⁣‍‍⁣⁢⁤﻿﻿﻿⁡‍‍⁢⁤‬⁢⁡⁤‍﻿⁤⁤⁡⁡⁡‬‬⁡‬⁣﻿﻿Windows系统重装教程](https://xodnytdcaw.feishu.cn/wiki/YoxGwV08MiWhVpkqskGc4axYnyg?fromScene=spaceOverview) 
-- [U盘重装系统保姆级教程](https://www.kdocs.cn/l/cjvZ1YqoN4Kr)
+- [Windows使用U盘重装系统保姆级教程](https://www.kdocs.cn/l/cjvZ1YqoN4Kr)
 - [Windows优化常见工具包](https://xodnytdcaw.feishu.cn/wiki/ImIHwBdurikeFzki2k9cLfYVnKh?fromScene=spaceOverview)
 - [Windows10美化入门教程 ](https://xodnytdcaw.feishu.cn/wiki/KoaDwjZ8cif2wTkQo63cpxllnKh?fromScene=spaceOverview)
 - [‍‌‍⁡‬⁡⁤‌⁢‌⁡‌‍‍⁡⁤﻿⁤‍‍‌⁡⁡⁣⁢‌⁣﻿⁤‍‬⁤⁢⁣﻿⁤‍⁣‍⁣‍‍﻿‌E5电脑常见问题处理方案](https://xodnytdcaw.feishu.cn/wiki/YxQVwx1yIiqZvskgT6WclBTwnsd?fromScene=spaceOverview)
