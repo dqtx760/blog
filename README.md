@@ -115,7 +115,7 @@
 [![CSDN](https://img.shields.io/badge/CSDN-大强同学-FF4D4D?logo=c)](https://blog.csdn.net/2402_82616859?type=blog)
 [![Twitter](https://img.shields.io/badge/Twitter-大强同学-1DA1F2?logo=twitter)](https://twitter.com/dqtx760)
 [![YouTube](https://img.shields.io/badge/YouTube-大强同学-FF0000?logo=youtube)](https://www.youtube.com/@dqtx760/videos)
-[![GitHub](https://img.shields.io/badge/GitHub-大强同学-181717?logo=github)](https://github.com/dqtx760/blog/edit/main/README.md)
+[![GitHub](https://img.shields.io/badge/GitHub-大强同学-181717?logo=github)](https://github.com/dqtx760/blog)
 
 
 
