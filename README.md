@@ -4,7 +4,7 @@
 
 欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/dqtx760/blog/issues) 。
 
-> P.S.<span style="color: red; font-weight: bold;">最新活动</span>：<span style="color: red;">[雨云新用户送15天](https://www.rainyun.com/NzYxMDg2_)</span>  <span style="color: red;">[智谱BigModel API立减10%](https://www.bigmodel.cn/glm-coding?ic=PUCQNADSPM)</span>  <span style="color: red;">[闲管家85折优惠](https://kdocs.cn/l/cnNiOhFzqJA8)</span>   <span style="color: red;">[Windows正版软件促销活动](https://lizhi.shop/category/windows?cid=wbm93g4b)</span>  <span style="color: red;">[仙宫云](https://mp.weixin.qq.com/s/pRn7xSJA_kVaO3qXfQNCag)</span>  <span style="color: red;">[HeroSMS接码](https://hero-sms.com/?ref=497256)</span>
+> P.S.<span style="color: red; font-weight: bold;">最新活动</span>：<span style="color: red;">[雨云新用户送15天](https://www.rainyun.com/NzYxMDg2_)</span>  <span style="color: red;">[智谱BigModel API立减10%](https://www.bigmodel.cn/glm-coding?ic=PUCQNADSPM)</span>  <span style="color: red;">[闲管家85折优惠](https://kdocs.cn/l/cnNiOhFzqJA8)</span>  [115网盘会员](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARQJK1olXw4DUlZUCU0VC18IGlgUXQ8BUl1cCEkRBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAG4IElgTXgcCVlhYFxJSXzI4RSwXJXlWFC44ewNFVy1UBR1IVUBWJFJROEonAG4LElkRXwUDU25tCEwnQgEIHV8QXgMFVW5cOEsRBGcPGl8SXA8GV1ZtD0seMzRddQdnFXlrIBk4TDtMSF84K1glWgYLQFgvSRkDBR04K1slXjYyVl9cDEInM7GGjzgWPlB3UD8UWhdzVmZTRSzL05ITPydVCEsUEl9DSQx8Bn4EPQxfeAxPUDIKSA8TKgd6MSUzChRLRzl8RgsRDw5eK1srVRdKM2o4HlMXVDY) <span style="color: red;">[Windows正版软件促销活动](https://lizhi.shop/category/windows?cid=wbm93g4b)</span>  <span style="color: red;">[仙宫云](https://mp.weixin.qq.com/s/pRn7xSJA_kVaO3qXfQNCag)</span>  <span style="color: red;">[HeroSMS接码](https://hero-sms.com/?ref=497256)</span> [大强数字工坊](https://app.dqtx.cc/)
 
 
 ![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20251203163025723.webp)
@@ -110,6 +110,8 @@
 - [chrome插件合集更新](https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a)
 - [CMD命令大全](article/命令大全.md)  
 - [零碎教程汇总](https://discreet-ringer-ef6.notion.site/Win-1f5351994e4080a29899ec97e76e10a7)
+
+## contact
 
 [![飞书文档](https://img.shields.io/badge/知识库-软件教程-00A1E9?logo=feishu)](https://xodnytdcaw.feishu.cn/wiki/BtjSwIjMuiISo7kNFiQcMMXcnKc)
 [![CSDN](https://img.shields.io/badge/CSDN-大强同学-FF4D4D?logo=c)](https://blog.csdn.net/2402_82616859?type=blog)
