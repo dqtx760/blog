@@ -13,53 +13,55 @@
 
 ### 一月
 
-- 2026/01/28：[轻松打造家庭影视库，实现4K观影自由](/article/轻松打造家庭影视库，实现4K观影自由.md)
+- [PixPin截图配置指南](/article/PixPin截图配置指南.md)
 
-- 2026/01/22：[零成本！100G 免费图床搭建，小白 10 分钟搞定](/article/零成本搭建在线图床.md)  
-- 2026/01/21：[AutoHotkey打包exe完全指南！](/article/AutoHotkey打包exe完全指南！.md)  
-- 2026/01/18：[MakeSFX：配置打包自解压方法](/article/配置打包自解压方法.md)  
-- 2026/01/18：[FormCeo：软件打包自解压方法](/article/软件打包自解压方法.md)  
-- 2026/01/18：[OBS摄像头一键移动插件](/article/OBS摄像头一键移动插件.md)  
-- 2026/01/16：[md2wechat-skill安装教程](/article/md2wechat-skill安装教程.md)  
-- 2026/01/15：[API 封装成 Skill 的最佳实践](/article/API封装成Skill最佳实践.md)  
-- 2026/01/14：[7个优质精选Claude Skills](/article/7个优质精选ClaudeSkills.md)  
-- 2026/01/13：[Obsidian+AI](/article/Obsidian+AI.md)  
-- 2026/01/13：[Passkeys通行密钥](/article/Passkeys通行密钥.md)  
-- 2026/01/06：[Claude Code安装使用教程](/article/ClaudeCode安装使用教程.md)
-- 2026/01/06：[屏蔽IOS系统更新通知教程](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
+- [轻松打造家庭影视库，实现4K观影自由](/article/轻松打造家庭影视库，实现4K观影自由.md)
+
+- [零成本！100G 免费图床搭建，小白 10 分钟搞定](/article/零成本搭建在线图床.md)  
+- [AutoHotkey打包exe完全指南！](/article/AutoHotkey打包exe完全指南！.md)  
+- [MakeSFX：配置打包自解压方法](/article/配置打包自解压方法.md)  
+- [FormCeo：软件打包自解压方法](/article/软件打包自解压方法.md)  
+- [OBS摄像头一键移动插件](/article/OBS摄像头一键移动插件.md)  
+- [md2wechat-skill安装教程](/article/md2wechat-skill安装教程.md)  
+- [API 封装成 Skill 的最佳实践](/article/API封装成Skill最佳实践.md)  
+- [7个优质精选Claude Skills](/article/7个优质精选ClaudeSkills.md)  
+- [Obsidian+AI](/article/Obsidian+AI.md)  
+- [Passkeys通行密钥](/article/Passkeys通行密钥.md)  
+- [Claude Code安装使用教程](/article/ClaudeCode安装使用教程.md)
+- [屏蔽IOS系统更新通知教程](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
 
 ## 2025年
 
 ### 十二月
 
-- 2026/12/27：[AntigravityTool使用教程](/article/AntigravityTool使用教程.md)
-- 2026/12/23：[Antigravity安装使用教程](/article/Antigravity安装使用教程.md)
-- 2026/12/15：[Zed安装使用教程](/article/Zed安装使用教程.md)
+- [AntigravityTool使用教程](/article/AntigravityTool使用教程.md)
+- [Antigravity安装使用教程](/article/Antigravity安装使用教程.md)
+- [Zed安装使用教程](/article/Zed安装使用教程.md)
 
 ### 十一月
 
-- 2025/11/30：[MuMu模拟器去广告](https://mp.weixin.qq.com/s/qQCIYb8K_xybStgAbLjtaQ)
-- 2025/11/25：[VMware安装黑苹果macOS15](https://mp.weixin.qq.com/s/xK49ONPSzlR0IsyYtjhKjg)
-- 2025/11/22：[5款Chrome效率插件](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
-- 2025/11/18：[Windows1125H2](/article/Windows1125H2.md)
-- 2025/11/16：[Openlist挂载豆包网盘](https://mp.weixin.qq.com/s/hlOJ89PDWpS8QJFDDmMU7g)
-- 2025/11/16：[openlist添加阿里云盘储存教程](https://mp.weixin.qq.com/s/uXnSJg_4oRRq1ID74-KUIg)
-- 2025/11/12：[iFlow安装使用教程](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
+- [MuMu模拟器去广告](https://mp.weixin.qq.com/s/qQCIYb8K_xybStgAbLjtaQ)
+- [VMware安装黑苹果macOS15](https://mp.weixin.qq.com/s/xK49ONPSzlR0IsyYtjhKjg)
+- [5款Chrome效率插件](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
+- [Windows1125H2](/article/Windows1125H2.md)
+- [Openlist挂载豆包网盘](https://mp.weixin.qq.com/s/hlOJ89PDWpS8QJFDDmMU7g)
+- [openlist添加阿里云盘储存教程](https://mp.weixin.qq.com/s/uXnSJg_4oRRq1ID74-KUIg)
+- [iFlow安装使用教程](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
 
 
 
 ### 九月
 
-- 2025/09/28：[Typora安装/附图床配置教程](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
-- 2025/09/26：[ShareX隐藏的多区域截图技巧](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
-- 2025/09/22：[文件搜索Listary Pro 6.3.0.78](/article/Listary配置参考.md)
-- 2025/09/18：[Potplayer安装与设置教程](https://www.kdocs.cn/l/clmJIYpDA4mH)
-- 2025/09/14：[Office 2024安装与激活](https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw)
-- 2025/09/11：[PS2025安装教程](https://www.kdocs.cn/l/camYZ7UK6kgi)
-- 2025/09/03：[Honeyview看图神器，免费无广告！](https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g)
-- 2025/09/02：[巨魔商店Trollstore安装教程](https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview)
+- [Typora安装/附图床配置教程](/article/Typora图床完整配置教程.md) | [快捷键](/article/Typora快捷键.md)
+- [ShareX隐藏的多区域截图技巧](https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA)
+- [文件搜索Listary Pro 6.3.0.78](/article/Listary配置参考.md)
+- [Potplayer安装与设置教程](https://www.kdocs.cn/l/clmJIYpDA4mH)
+- [Office 2024安装与激活](https://mp.weixin.qq.com/s/HxUCRo9Zoyog5dAr7r_pWw)
+- [PS2025安装教程](https://www.kdocs.cn/l/camYZ7UK6kgi)
+- [Honeyview看图神器，免费无广告！](https://mp.weixin.qq.com/s/UZxfp8DzU-0Fvgyt4wrz3g)
+- [巨魔商店Trollstore安装教程](https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd?fromScene=spaceOverview)
 
-- 2025/09/01：[屏蔽IOS系统更新通知教程](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
+- [屏蔽IOS系统更新通知教程](https://www.bilibili.com/video/BV1vxvfBVECn/?spm_id_from=333.1387.upload.video_card.click)
 
 ### 八月
 
