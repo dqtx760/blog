@@ -13,6 +13,8 @@
 
 ### 一月
 
+- [Windows系统上开启Chrome-Gemini](/article/Windows系统上开启Chrome-Gemini.md)
+
 - [PixPin截图配置指南](/article/PixPin截图配置指南.md)
 
 - [轻松打造家庭影视库，实现4K观影自由](/article/轻松打造家庭影视库，实现4K观影自由.md)
