@@ -11,6 +11,10 @@
 
 ## 2026年
 
+### 二月
+
+- 
+
 ### 一月
 
 - [Windows系统上开启Chrome-Gemini](/article/Windows系统上开启Chrome-Gemini.md)
