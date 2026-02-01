@@ -8,7 +8,7 @@
 
 可 2026 年的今天，有个开发者偏要给它 “续上一口气”：一个叫 BobPony 的大神，把 Win7 重新打包成了 “史上终极版”，不仅能装在新电脑上，还解决了老 Win7 的所有硬件痛点。
 
-
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/G-6_bDPXIAA9xEs.webp)
 
 ## 二、这个 “终极 Win7” 到底改了啥？
 
@@ -36,20 +36,20 @@ BobPony 做的这个镜像叫《The most ULTIMATE Windows 7 x64 ever》，核心
 
 ## 三、下载安装
 
-1. 下载方式
+1. ### 下载方式
 - 种子下载：[点此获取](https://x.com/TheBobPony/status/2012654119811432608)（作者原文）
 - 网盘下载：[点此获取](https://pan.quark.cn/s/4569b24c93a8)
 
 
 
-2. 安装方法
+2. ### 安装方法
 
 - 系统U盘制作：[点击下载](https://rufus.ie/)，建议U盘至少12G以上
 - 虚拟机安装：[点此获取](https://www.bilibili.com/video/BV1DJ4m1L7e9/?spm_id_from=333.1387.search.video_card.click) 可以在Windows 或者 mac 系统上进行安装Windows 7系统
 
 
 
-## 四.结语
+## 四、结语
 
 这个 “终极 Win7” 更像一份 “情怀礼包”：它不是让你回到过去，而是给老用户留了个 “怀旧入口”，给老设备续了口命。Win7 的时代早就结束了，但那些抱着它通宵打游戏、熬夜写论文的日子，永远是我们和电脑的独家记忆。
 
